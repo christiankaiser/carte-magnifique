@@ -1,0 +1,1242 @@
+{
+	"features": [{
+			"title": "Storia della stereoscopia",
+			"textJson": "texts_chapitre_1.json",
+			"paragraphs": [{
+					"title": "Storia della stereoscopia",
+					"images": [{
+						"url": "1_1_1a.jpg",
+						"legende": "",
+						"description": "<b>Fig. A: Frontespizio di <i>Opticorum liber III</i>, inciso da Theodor Galle su disegno di Peter Paul Rubens, in François de Aguilon, <i>Opticorum libri sex philosophis juxta ac mathematicis utiles</i>, Antverpiæ, Ex officina Plantiniana, apud Viduam et filios J. Moreti, 1613</b><br><br>Teologo, matematico e architetto, Aguilon coniò il termine \"proiezione stereoscopica\". Magistralmente illustrato da Rubens, il suo testo costituisce una tappa fondamentale nello studio della visione binoculare. In questo frontespizio vediamo lo scienziato eseguire un esperimento. Con il dito indica un piccolo bastone tenuto da un putto e chiude l'occhio sinistro, probabilmente per vedere se il bastoncino è ancora allineato con il suo dito."
+					}],
+					"contentRight": false,
+					"linkRight": "",
+					"nameRight": ""
+				},
+				{
+					"title": "Gli stereoscopi",
+					"images": [{
+							"url": "1_1_7_b.jpg",
+							"numero": 1,
+							"legende": "",
+							"description": "<b>Fig. 1: L'evoluzione dello stereoscopio, in <i>The Stereoscopic Photograph</i>, 1901</b><br><br>I fratelli Underwood presentano in questa immagine i principali stereoscopi prodotti a cominciare da quello di Wheatstone (1838) sino al loro ultimo modello brevettato nel 1901."
+						},
+						{
+							"url": "1_1_1.jpg",
+							"numero": 2,
+							"legende": "",
+							"description": "<b>Fig. 2: Frontespizio da <i>Opticorum liber IV</i>, inciso da Theodor Galle su disegno di Peter Paul Rubens, in François de Aguilon, <i>Opticorum libri sex philosophis juxta ac mathematicis utiles </i>, Antverpiæ : Ex officina Plantiniana, apud Viduam et filios J. Moreti, 1613</b><br><br>Nel frontespizio del Libro IV, Rubens illustra l'apparato costruito da Aguilon per dimostrare l’oroptero, termine introdotto per la prima volta da François d'Aguilon in questo trattato. Lo scienziato fissa la croce al centro dello schermo, mentre due putti mostrano i punti che indicano le posizioni delle direzioni incrociate.  Come in molte altre opere di questo periodo, i putti appaiono come gli assistenti dello scienziato."
+						},
+						{
+							"url": "1_1_2.png",
+							"numero": 3,
+							"legende": "",
+							"description": "<b>Fig. 3: Dettagli dell’illustrazione XI, in Charles Wheatstone, \"Contributions to the Physiology of Vision. Part the first\". <i>Philosophical Transactions of the Royal Society of London</i>, 1838</b><br><br>Nel 1838, il professor Charles Wheatstone sviluppò la teoria della percezione binoculare e realizzò il primo stereoscopio, il cui funzionamento è descritto in questo articolo, illustrato da diverse figure geometriche."
+						},
+						{
+							"url": "1_1_3.jpg",
+							"numero": 4,
+							"legende": "",
+							"description": "<b>Fig. 4a: Due illustrazioni dello stereoscopio a specchi di Wheatstone, in David Brewster, <i>The stereoscope...</i>, 1856 e in Louis Figuier, <i>Les merveilles de la science</i>, 1867; Fig. 4b:\"Charles Wheatstone\", British Museum</b><br><br>Lo stereoscopio di Wheatstone permetteva di vedere il rilievo esaminando simultaneamente due disegni leggermente disallineati di un oggetto. Il suo stereoscopio funzionava per riflessione, cioè le due immagini erano viste attraverso due specchi con un angolo di 45 gradi."
+						},
+						{
+							"url": "1_1_4.jpg",
+							"numero": 5,
+							"legende": "",
+							"description": "<b>Fig. 5a: Lo stereoscopio lenticolare di Brewster, in David Brewster, <i>The stereoscope…</i>, 1856; Fig. 5b: \"David Brewster\", British Museum</b><br><br>Il secondo modello di stereoscopio, più semplice e malleabile, fu presentato nel 1849, dall'inventore scozzese David Brewster che propose uno stereoscopio lenticolare, basato non su specchi, ma su lenti prismatiche. Questo stereoscopio permette di vedere delle fotografie."
+						},
+						{
+							"url": "1_1_5_d.jpg",
+							"numero": 6,
+							"legende": "",
+							"description": "<b>Fig. 6a <i>Atlantic Monthly</i>, 1859; Fig. 6b: \"Oliver Wendell Holmes\", ca 1872, Boston Medical Library Art Collection; Fig. 6c \"The Holmes stereoscope\", in <i>Philadelphia Photograph</i>, 1869</b><br><br>Medico, scrittore e poeta, Holmes fu professore di anatomia e fisiologia alla \"Harvard Medical School\". Era affascinato dalla fotografia stereoscopica e in tre articoli visionari pubblicati sull'<i>Atlantic Monthly</i> (1859, 1861, 1863), esaltò la stereoscopia da una prospettiva sociale e culturale. Per Holmes, lo stereoscopio fornisce una sorta di esperienza estetica incarnata che combina i sensi della vista e del tatto, offrendo la possibilità di penetrare fisicamente nell'immagine. Nel 1859, inventò uno stereoscopio semplificato ed economico, che non brevettò, per renderlo ampiamente disponibile."
+						},
+						{
+							"url": "1_1_5.jpg",
+							"numero": 7,
+							"legende": "",
+							"description": "<b>Fig. 7a: \"The Holmes stereoscope, with the inventions and improvements added by Joseph L. Bates\", ca 1869; Fig. 7b: \"Oliver Wendell Holmes\", British Museum.</b><br><br>Su richiesta di Holmes, Joseph L. Bates, un fabbricante di Boston, accettò di migliorare il suo stereoscopio e lo brevettò il 13 agosto 1867. Le modifiche apportate, in particolare il dispositivo di scorrimento per regolare la messa a fuoco, hanno reso più facile la visualizzazione delle fotografie stereoscopiche. Questo visore sarà per diversi decenni il modello più diffuso."
+						},
+						{
+							"url": "1_1_6.jpg",
+							"numero": 8,
+							"legende": "",
+							"description": "<b>Fig. 8: Diversi diagrammi del funzionamento dello stereoscopio, in Albert E. Osborne, <i>The stereograph and the stereoscope, with special maps and books forming a travel system</i>, Underwood & Underwood, 1909</b><br><br>L'autore di questo libro era uno dei principali collaboratori di \"Underwood & Underwood\", l'editore che nel 1900 lancia sul mercato una nuova serie di viaggi stereoscopici. Fu Albert E. Osborne a presentare nel 1899 il brevetto per questo sistema originale di viaggi virtuali."
+						},
+						{
+							"url": "1_1_8.jpg",
+							"numero": 9,
+							"legende": "",
+							"description": "<b>Fig. 9: \"Look into my eyes\", Stereofotografia promozionale d'Underwood & Underwood, ca 1900</b><br><br>Questa è una delle immagini create dall'editore per promuovere il realismo e la superiorità della fotografia stereoscopica."
+						},
+						{
+							"url": "1_1_9.png",
+							"numero": 10,
+							"legende": "",
+							"description": "<b>Fig. 10: \"Big feet\", Stereofotocrafia promozionale d'Underwood & Underwood,  ca 1901</b><br><br>In questa immagine, il fotografo H. A. Strohmeyer, vicepresidente di \"Underwood & Underwood\", legge la rivista <i>The Stereoscopic Photograph</i>. Visto a occhio nudo il corpo appare deformato, mentre visto attraverso lo stereoscopio appare nelle sue dimensioni naturali. L'immagine serviva anche a promuovere la rivista che l'editore aveva appena pubblicato."
+						},
+						{
+							"url": "1_4_11_b.jpg",
+							"numero": 11,
+							"legende": "",
+							"description": "<b>Fig. 11: \"Kaiserpanorama\", Incisione su legno dell'opuscolo d’August Fuhrmann, 1880</b><br><br>La passione per lo stereoscopio sembra scemare intorno agli anni 1880.  Gli inventori cercarono nuove idee per riaccendere l'entusiasmo del pubblico e creano per esempio nuovi visori pubblici, come il \"Kaiserpanorama\", brevettato nel 1880 dall'ottico tedesco August Fuhrmann e descritto nei ricordi d'infanzia di Walter Benjamin. Offriva 25 posti a sedere dove si poteva visionare in successione 50 immagini stereoscopiche colorate di diverse località ed eventi."
+						},
+						{
+							"url": "1_4_11_c.jpg",
+							"numero": 12,
+							"legende": "",
+							"description": "<b>Fig. 12: Cartolina \"Meissen; Kleinmarkt mit Franziskanerkirche\", Brück & Sohn, 1907</b><br><br>Il \"Kaiserpanorama\" è stato inaugurato a Breslavia nel 1880 e successivamente installato in molte città dell'Europa centrale, come lo mostra la foto del palazzo che ospita il \"Kaiserpanorama\" nella città di Meissen, in Sassonia."
+						},
+						{
+							"url": "1_4_12.jpg",
+							"numero": 13,
+							"legende": "",
+							"description": "<b>Fig. 13: \"Sculptoscope\", ca 1925, Courtesy of the Shiloh Museum of Ozark History</b><br><br>Nel 1913, Richard R. Whiting e suo fratello Herbert, venditori di stereofotografie per la \"Keystone View & Co. \", fondarono la \"American Novelty Company\" a Cincinnati, Ohio. Cominciarono a produrre e brevettare vari modelli di \"Sculptoscope\" per magazzini commerciali."
+						},
+						{
+							"url": "1_1_10.jpg",
+							"numero": 14,
+							"legende": "",
+							"description": "<b>Fig. 14: Diversi modelli di stereoscopio</b> <br/><br/>Il successo della fotografia stereoscopica è dimostrato dal gran numero e dalla varietà di modelli di stereoscopio che sono apparsi sul mercato nei 100 anni dalla sua invenzione."
+						}
+						],
+					"contentRight": false,
+					"linkRight": "gallerySelection.html",
+					"nameRight": ""
+				},
+				{
+					"title": "Dispositivi stereoscopici",
+					"images": [{
+							"url": "1_3_1.png",
+							"numero": 15,
+							"legende": "",
+							"description": "<b>Fig. 15: \"Photographing New York City, on a slender support 18 stories above pavement on Fifth Avenue\", Underwood & Underwood, 1905, Library of Congress</b><br><br>Pubblicata su <i>Time Magazine</i> nel 1905, la fotografia mostra Bert Underwood su una trave al 18° piano di un edificio all'angolo nord-ovest della 5th Avenue e della 18th Street vicino alla sede di \"Underwood & Underwood\". Bert riprende la città con una fotocamera stereoscopica, la \"Triple Lens Stereo Graphic\"."
+						},
+						{
+							"url": "1_3_3.jpg",
+							"numero": 16,
+							"legende": "",
+							"description": "<b>Fig. 16a: Henri de La Blanchère, <i>Monographie du stéréoscope et des épreuves stéréoscopiques</i>, Paris, 1861; Fig. 16b:\" La stéréoscopie \", in Louis Figuier, <i>Les merveilles de la science</i>, 1867</b><br><br>Prima della fabbricazione delle fotocamere binoculari, le stereofotografie venivano fatte con una sola fotocamera che veniva spostata, o con due fotocamere ravvicinate. L'altra immagine mostra come realizzare delle stereofotografie di oggetti vicini e la tavoletta usata per effettuare le stereofotografie di oggetti lontani."
+						},
+						{
+							"url": "1_3_2a.jpg",
+							"numero": 17,
+							"legende": "",
+							"description": "<b>Fig. 17a: Publicità del \"Quinétoscope\" inventato da M. Quinet, in <i>Revue photographique</i>, 1858; Fig. 17b Dettaglio del brevetto del \"Quinétoscope\", 1853, n. 15716 Institut National de la propriété intellectuelle </b><br><br>Le prime macchine fotografiche a due obiettivi furono prodotte all'inizio del 1850. Nel 1853, il tipografo e fotografo parigino Achille Quinet (figlio di Alexandre Marie) brevettò il suo \"Quinétoscope\", che fu anche al centro del dibattito sulla distanza tra i due obbiettivi mobili che animava i fotografi dell'epoca. Quinet era a favore di una distanza simile a quella dei due occhi e quindi più naturale, mentre altri insistevano su un distanziamento maggiore che di conseguenza aumentava l'effetto stereoscopico."
+						},
+						{
+							"url": "1_3_2.jpg",
+							"numero": 18,
+							"legende": "",
+							"description": "<b>Fig. 18a: La fotocamera a due obbiettivi brevettata nel 1856 da J. B. Dancer; Fig. 18b: J. B. Dancer, \"The Scientist in his Laboratory\", dagherrotipo stereoscopico, 1852, Victoria and Albert Museum, London</b><br><br>L'inventore e produttore britannico di strumenti scientifici, John Benjamin Dancer, produsse la sua prima fotocamera stereoscopica nel 1852. La migliorò e brevettò nel 1856."
+						},
+						{
+							"url": "1_3_8_c.jpg",							
+							"numero": 19,
+							"legende": "",
+							"description": "<b>Fig. 19: Dettaglio della stereofotografia d’Adolphe Braun, \"Oberland Bernois. Glacier d'Ober-Aar\", ca 1863, J. Paul Getty Museum </b><br><br>In questa stereofotografia del ghiacciao dell’Oberaar, scattata da Adolphe Braun, uno dei grandi fotografi francesi dell'epoca, si può vedere la camera oscura montata sul ghiacciaio e la squadra che trasporta l'attrezzatura. In quegli anni, il trasporto dell'attrezzatura necessaria per le fotografie era ancora molto difficile poiché i processi chimici obbligavano a preparare e sviluppare le lastre sul posto."
+						},
+						{
+							"url": "1_3_7_c.jpg",
+							"numero": 20,
+							"legende": "",
+							"description": "<b>Fig. 20a: \"L'appareil photographique de voyage\" e \"La photographie dans les voyages d’exploration\" in Gaston Tissandier, <i>Les merveilles de la photographie</i>, 1874, Bibliothèque nationale de France ; Fig. 20b: \"The Scovill portable\", annuncio pubblicitario, in <i>How to make photographs</i>, Scovill & co., 1883</b><br><br>A partire dal 1878, si cominciarono a produrre lastre a secco che i fotografi potevano acquistare in anticipo. Queste illustrazioni mostrano che nella seconda metà del XIX secolo si è cercato di progettare anche attrezzature per facilitare la realizzazione di fotografie durante i viaggi."
+						},
+						{
+							"url": "1_3_4.jpg",
+							"numero": 21,
+							"legende": "",
+							"description": "<b>Fig. 21a: \"Photography\", in <i>The National Encyclopedia: A Dictionary of Universal Knowledge</i>, London [fin XIXe siècle]; Fig. 21b:\"Triple Lens Stereo Graphic\", Folmer & Schwing, 1901-1902, Historic Camera</b><br><br>La prima immagine mostra fotocamere stereoscopiche realizzate negli anni 1860 da vari produttori. La seconda è una riproduzione della \"Triple Lens Stereo Graphic\" usata da Bert Underwood nella fotografia pubblicata su <i>Time Magazine</i> nel 1905 (Fig. 15)."
+						},
+						{
+							"url": "1_3_5.jpg",
+							"numero": 22,
+							"legende": "",
+							"description": "<b>Fig. 22: Pubblicità di due fotocamere \"Grafic cameras\", in <i>The Stereoscopic Photograph</i>, 1901</b><br><br>I vari modelli di fotocamere stereoscopiche prodotti nella seconda metà del XIX secolo mostrano che la concorrenza tra i produttori era vivace. Queste due fotocamere furono prodotte da \"Folmer & Schwing\" dal 1898 al 1906. In questo annuncio sono raccomandate da \"Underwood & Underwood \" e da alcuni dei suoi collaboratori."
+						},
+						{
+							"url": "1_3_11.jpg",
+							"numero": 23,
+							"legende": "",
+							"description": "<b>Fig. 23: Fotografo a cavallo in Palestina, Underwood & Underwood, s.d., Gelatin silver contact print, UCR-California Museum of Photography, University of California, Riverside</b><br><br>Il fotografo, non identificato, usa una fotocamera stereoscopica. La fotografia è stata scattata probabilmente alla fine del XIX secolo."
+						},
+						{
+							"url": "1_3_9.jpg",
+							"numero": 24,
+							"legende": "",
+							"description": "<b>Fig. 21a: \"Le Vérascope de Jules Richard\", 1900; Fig. 24b: \"Black-Box, Laboratoire photographique de voyage\", 1904</b><br><br>Richard era un famoso produttore francese di fotocamere stereoscopiche, tra le quali la \"Vérascope\" brevettato nel 1893, era il più conosciuto e popolare perché più facile da utilizzare e trasportare e più adatto ai fotografi dilettanti. Il Black-Box, proposto agli alberghi, mostra che la fotografia, all'inizio del XX secolo, era ormai una pratica diffusa anche tra i turisti."
+						},
+						{
+							"url": "1_3_9_b.jpg",
+							"numero": 25,
+							"legende": "",
+							"description": "<b>Fig. 25a: Frédéric Boissonnas, <i>Essai de photographie binoculaire</i>, Paris, 1900 ; Fig. 25b : \"Autoportrait à l'appareil binoculaire\", 1900, Bibliothèque de Genève, Centre d’iconographie</b><br><br>L'uso diffuso della fotografia stereoscopica l’aveva trasformata in un prodotto industriale. Questo provocò le critiche di molti professionisti che ne denunciavano la scarsa qualità e difendevano un approccio artistico anche per questo tipo di fotografie. Fra questi Fred Boissonas, un famoso fotografo ginevrino che agli inizi del XX secolo si interessò anche alla fotografia binoculare."
+						},
+						{
+							"url": "1_1_11.jpg",
+							"numero": 26,
+							"legende": "",
+							"description": "<b>Fig. 26a: \"Why do we have two eyes\", fotografia pubblicata in George Earl Hamilton, <i>The stereograph and lantern slide in education</i>, \"Keystone View & Co.\", 1939; Fig. 26b: Originale della stessa fotografia </b><br><br>Si tratta di una fotografia promozionale che mostra una donna con una macchina fotografica stereoscopica \"Folmer & Schwing\". La pubblicazione di questo libro nel 1939 è la prova del continuo interesse dell'uso delle fotografie stereoscopiche nel settore pedagogico."
+						}
+						],
+					"contentRight": false,
+					"linkRight": "gallerySelection.html",
+					"nameRight": ""
+				},
+				{
+					"title": "L’epoca d’oro della stereoscopia",
+					"images": [{
+							"url": "1_4_1.jpg",
+							"numero": 27,
+							"legende": "",
+							"description": "<b>Fig. 27: \"Exterior View of the Building for the Great Exhibition of 1851. Constructed Chiefly of Glass and Iron\", Designed by Joseph Paxton Esq., Stannard & Dixon, 1851</b><br><br>La grande esposizione londinese dedicata al lavoro dell'industria di tutte le nazioni ebbe luogo al Crystal Palace dal 1 maggio al 15 ottobre 1851. Fu durante questa mostra che fu presentato lo stereoscopio realizzato dal francese Jules Duboscq e dallo scozzese David Brewster."
+						},
+						{
+							"url": "1_4_4_a.jpg",
+							"numero": 28,
+							"legende": "",
+							"description": "<b>Fig. 28a: \"Advertisement for the London Stereoscopic Company\", 1854; Fig. 28b: \" Catalogue of the London Stereoscopic Company\", 1856, Howarth-Loomes Collection, National Museums Scotland </b><br><br>L'entusiasmo della regina Vittoria per la fotografia stereoscopica portò alla nascita di quella che da allora è stata definita l’\"Età d'oro della stereoscopia\". Fu nel 1854 che venne fondata la \"London Stereoscopic Company\", la prima azienda specializzata nella produzione di stereofotografie. Il catalogo pubblicato nel 1856 menziona già la vendita di immagini della natura, \"dai più piccoli angoli e valli ai più grandi ghiacciai alpini\"."
+						},
+						{
+							"url": "1_4_5_c.jpg",
+							"numero": 29,
+							"legende": "",
+							"description": "<b>Fig. 29: Antoine François Jean Claudet, \"Hand-tinted stereoscopic daguerreotype of Queen Victoria, apr. 1854\", Royal Collection Trust / © Her Majesty Queen Elizabeth II 2022</b><br><br>Questo dagherrotipo stereoscopico, colorato a mano, è attribuito ad Antoine Claudet (1797-1867). Originario di Lione ma residente a Londra, fu uno dei fotografi più importanti dell'epoca vittoriana e il fotografo ufficiale della regina Vittoria. Probabilmente commissionato dalla regina Vittoria stessa nel 1854, questo dagherrotipo testimonia l'interesse della sovrana per la fotografia stereoscopica."
+						},
+						{
+							"url": "1_4_5_a.jpg",
+							"numero": 30,
+							"legende": "",
+							"description": "<b>Fig. 30: \"Jean-Gabriel Eynard et sa femme Anna Eynard née Lullin\", dagherrotipo stereoscopico attribuito a Louis Jules Duboscq-Soleil, 1852 ca, Bibliothèque de Genève, Centre d'iconographie</b><br><br>In questi anni, la fotografia stereoscopica suscita dell’interesse anche in Svizzera, come mostra questo ritratto dei coniugi Eynard. Jean-Gabriel Eynard, finanziere e diplomatico di Ginevra, fu anche uno dei pionieri della fotografia e fu apprezzato dai principali dagherrotipisti che incontrò, come Noël Paymal Lerebours, Antoine Claudet e Jules Duboscq-Soleil. A quest'ultimo si attribuisce questo dagherrotipo stereoscopico."
+						},
+						{
+							"url": "1_4_4_b.jpg",
+							"numero": 31,
+							"legende": "",
+							"description": "<b>Fig. 31: \"Pente terminale du Glacier de Rosenlauï, (Suisse)\", stéréophotographie sur verre (marque  FSL Ferrier & Soulier & Levy), ca 1858, in John B. Cameron and Janice G. Schimmelman, <i>The Glass Stereoviews of Ferrier & Soulier (1852-1908)</i>, Rochester (Michigan), The Collodion Press, 2016</b><br><br>All'inizio, la stereoscopia era utilizzata per produrre dagherrotipi, poi fotografie su vetro. Il massiccio del Monte Bianco e la Svizzera sono stati fotografati in stereoscopia già negli anni 1850 dai fratelli Bissons e soprattutto da \"Ferrier & Soulier\", le cui vedute stereoscopiche su vetro rivelano una qualità artistica indiscutibile. Ma queste stereofotografie erano riservate a un pubblico limitato."
+						},
+						{
+							"url": "1_4_5_M.jpg",
+							"numero": 32,
+							"legende": "",
+							"description": "<b>Fig. 32: Princess Louise, Duchess of Argyll, \"Upper part of the Rhone Glacier \", agosto-settembre, 1868, Royal Collection Trust / © Her Majesty Queen Elizabeth II 2022</b><br><br>Ci vorrà del tempo prima che la fotografia diventi una tecnica utilizzata dal grande pubblico. Nel XIX secolo, i viaggiatori continuarono ad acquistare stampe o a disegnare durante i loro soggiorni all'estero. Questo acquerello del ghiacciaio del Rodano è stato realizzato dalla principessa Louise che accompagnò la madre, la Regina Vittoria, nel suo viaggio in Svizzera nel 1868. La stessa Regina realizzò diversi acquerelli durante il suo viaggio in Svizzera. Tuttavia, nella seconda metà del XIX secolo, il progresso tecnico aprì un interessante mercato per i fotografi professionisti."
+						},
+						{
+							"url": "1_4_5_L.jpg",
+							"numero": 33,
+							"legende": "",
+							"description": "<b>Fig. 33: Stereofotografie di varie località svizzere e alpine, fatte dall'inglese William England (Genève, Mer de Glace, Lausanne), e dall'alsaziano Adolphe Braun (Petit Mont Cervin, Berne, Glacier des Bois) 1860-1865 </b><br><br>Dopo l'invenzione della carta all'albumina da parte di Louis Désiré Blanquart-Evrard, la produzione di stereofotografie stampate portò allo sviluppo di una vera produzione industriale. Così, durante la seconda metà del XIX secolo, si moltiplicarono le serie di stereofotografie di viaggio stampate e incollate su cartoncini. Quelle presentate qui appartengono alle serie prodotte da due maestri europei della fotografia stereoscopica. Alcune di queste stereofotografie venivano poi colorate a mano."
+						},
+						{
+							"url": "1_4_7_f.jpg",
+							"numero": 34,
+							"legende": "",
+							"description": "<b>Fig. 34: Annunci pubblicitari della \"London Stereoscopic Company\", in <i>The Art Journal Advertiser</i>, novembre 1855 e marzo 1856</b><br><br>I produttori britannici di stereofotografie alimentano l'entusiasmo del pubblico, con messaggi quali \"La meraviglia ottica del momento\" o \"Nessuna famiglia o scuola dovrebbe esserne privata\". Si noti che la pubblicità del 1856 segnala 60 stereofotografie della Svizzera."
+						},
+						{
+							"url": "1_4_8_b.jpg",
+							"numero": 35,
+							"legende": "",
+							"description": "<b>Fig. 35: \"Stereoscopic slides\", in <i>Harper's new monthly magazine</i>, 1860</b><br><br>Questa caricatura mostra i rischi associati alla passione per gli stereoscopi che caratterizzava la società vittoriana a metà del XIX secolo."
+						},
+						{
+							"url": "1_4_7b.jpg",
+							"numero": 36,
+							"legende": "",
+							"description": "<b>Fig. 36: Annunci pubblicitari di \"Alexis Gaudin & frère\", in <i>La Lumière</i>, 1857 et 1859</b><br><br>I produttori francesi, come Alexis Gaudin, alimentano l'interesse del pubblico invitandolo a scoprire i diversi paesi del mondo attraverso lo stereoscopio. Alexis Gaudin aveva acquistato nel novembre 1851 <i>La Lumière</i>, la prima rivista francese interamente dedicata alla fotografia. La diresse con Ernest Lacan fino al 1860."
+						},
+						{
+							"url": "1_4_3.jpg",
+							"numero": 37,
+							"legende": "",
+							"description": "<b>Fig. 37: Stereofotografia che mostra Alexis Gaudin, sua moglie e altre donne mentre usano degli stereoscopi, 1860 circa, Rijksmuseum</b><br><br>La moda delle stereofotografie si diffonde rapidamente in Francia. Sotto l'impulso di suo fratello maggiore, il chimico Marc-Antoine, Alexis Gaudin fonda la sua azienda nel 1850, poi si associa con suo fratello minore, sotto il nome di \"Alexis Gaudin & frère\". La società si specializza nella vendita di vedute stereoscopiche."
+						},
+						{
+							"url": "1_4_9.jpg",
+							"numero": 38,
+							"legende": "",
+							"description": "<b>Fig. 38: \"D. Appleton & Co., Stereoscopic views and implements\", New-York, ca 1870, Library of Congress</b><br><br>Il successo delle fotografie stereoscopiche si diffonde rapidamente anche negli Stati Uniti. Questa fotografia mostra alcune donne e uomini intenti a guardare del materiale stéréoscopico esposto nella sede dell'editore americano \"D. Appleton & Co.\" situata a Broadway, New York."
+						},		
+						{
+							"url": "1_4_2_a.jpg",
+							"numero": 39,
+							"legende": "",
+							"description": "<b>Fig. 39: Milton Miller, \"First peep into the stereoscope\", Canton (Chine), ca 1861, Rob Oechsle</b><br><br>Questa stereofotografia, scattata da un fotografo americano, che viveva a Canton nel 1861, mostra tre abitanti della città, uno dei quali guarda attraverso uno stereoscopio stile Brewster. I tre uomini indossano abiti da lutto, in seguito alla morte dell'imperatore Xianfeng. La vista attesta la diffusione dello stereoscopio nell'alta società cinese."
+						},
+						{
+							"url": "1_4_2_b.jpg",
+							"numero": 40,
+							"legende": "",
+							"description": "<b>Fig. 40: Nikolai Podliuchnikov, Ritratto di una fanciulla russa che guarda attraverso uno stereoscopio , ca 1865, Tropinin Museum, Moscow</b><br><br>Questo ritratto di una giovane ragazza, dipinto da un artista russo all'epoca di Alessandro II, illustra la rapida diffusione dello stereoscopio nell'alta società moscovita."
+						},
+						{
+							"url": "1_4_2.jpg",
+							"numero": 41,
+							"legende": "",
+							"description": "<b>Fig. 41: Jacob Spoel, \"Group of Women Looking at Stereoscopic Photographs\", prima del 1868, Rijksmuseum</b><br><br>In questo dipinto, l'artista olandese Jacob Spoel raffigura un gruppo di donne in un salone all'ora del tè. L'opera illustra l'interesse per la fotografia stereoscopica tra l'alta società europea della metà del XIX secolo."
+						},								
+						{
+							"url": "1_4_6_b.jpg",
+							"numero": 42,
+							"legende": "",
+							"description": "<b>Fig. 42a: Pubblicità della \"London Stereoscopic Company\", 1892; Fig. 42b: \"London Stereoscopic Company\"Sede della società al 54 Cheapside, London, ca 1905</b><br><br>Anche se l'entusiasmo per le vedute stereoscopiche sembra attenuarsi negli anni 1870, la promozione delle aziende specializzate in stereofotografie rimane importante in molti paesi. Il successo delle fotografie stereoscopiche continua nei primi anni del XX secolo, come dimostrano le persone che affollavano l'ingresso di una delle sedi della \"London Stereoscopic Company\"."
+						},
+						{
+							"url": "1_4_10.jpg",
+							"numero": 43,
+							"legende": "",
+							"description": "<b>Fig. 43a: Annuncio pubblicitario, in <i>Atchison Daily Globe</i>, 1908; Fig. 43b: Norman Rockwell, \"Boy with Stereoscope\" (étude), 1922, Courtesy of the Norman Rockwell Museum</b><br><br>Le stereofotografie erano ancora popolari nei primi decenni del XX secolo. Questa pubblicità offriva la stereofotografia di un paese lontano all'acquisto di ogni pacchetto di caffè. Lo schizzo dell'artista Norman Rockwell fu realizzato per illustrare la copertina del <i>Saturday Evening Post</i> del 14 gennaio 1922."
+						},
+						{
+							"url": "1_4_10_a.jpg",
+							"numero": 44,
+							"legende": "",
+							"description": "<b>Fig. 443a: Stereoscopio Suchard, ca 1910 e Stereoscopio Bally, ca 1905 ; Fig. 44b: stereofotografie pubblicitarie che completano le stereoscopio Bally </b><br><br> Nei primi anni del XX secolo l'uso delle stereofotografie come mezzo di pubblicità è una pratica comune. Per esempio, per promuovere i loro prodotti, le due industrie svizzere Suchard e Bally scelgono lo Stereoscopio Imperiale realizzato intorno al 1900 dalla famosa società berlinese \"Neue Photographische Gesellschaft A. G.\". Questi stereoscopi portatili sono completati da 25 stereofotografie. Se il produttore di cioccolato propone vedute di bambini, il produttore di scarpe opta per vedute turistiche."
+						}
+						],
+					"contentRight": false,
+					"linkRight": "gallerySelection.html",
+					"nameRight": ""
+				},
+				{
+					"title": "Dal View-Master alla realtà virtuale",
+					"images": [{
+							"url": "1_5_1.jpg",
+							"numero": 45,
+							"legende": "",
+							"description": "<b>Fig. 45: Un insieme di modelli di View-Master </b><br><br>Nel 1939 un nuovo modello di stereoscopio apparve sul mercato. Questo visore stereoscopico fu ampiamente utilizzato e subì pochi cambiamenti. Poiché era stato brevettato, altri modelli simili furono proposti come sistemi di visualizzazione basati su supporti rettilinei, invece che circolari."
+						},
+						{
+							"url": "1_5_2.jpg",
+							"numero": 46,
+							"legende": "",
+							"description": "<b>Fig. 46: Copertina di due brevetti depositati da William Gruber per due visori stereoscopici, 1939</b><br><br>William Gruber presentò un primo brevetto per il View-Master nel gennaio 1939 con l'obiettivo di ridurre il costo del dispositivo e delle immagini. Presentò un secondo brevetto nel 1947."
+						},
+						{
+							"url": "1_5_3_b.jpg",							
+							"numero": 47,
+							"legende": "",
+							"description": "<b>Fig. 47a: Opuscoli per il primo modello del View-Master; Fig. 47b: Opuscolo per il secondo modello del View-Master, 1949-1953</b><br><br>Gli opuscoli pubblicitari del 1940 et del 1950 si rivolgono a un vasto pubblico e mettono in evidenza il realismo delle stereofotografie a colori. La loro modernità è segnalata dal riferimento testuale allo \"Stereoscopio dei nonni\" e visivo e testuale allo \"Stereoscopio del passato\". Il viaggio è sempre uno dei temi principali delle immagini messe in vendita. La Svizzera è tra i primi paesi presentati."
+						},
+						{
+							"url": "1_5_5.jpg",
+							"numero": 48,
+							"legende": "",
+							"description": "<b>Fig. 48a: Catalogo delle stereofotografie per il visore francese Lestrade, 1964; Fig. 48b: Contenitore e negativi Bruguière, anni 1960</b><br><br>In Francia, sono i visori prodotti da \"Lestrade\" e \"Bruguière\" a competere con il View-Master americano negli anni 1960."
+						},
+						{
+							"url": "1_5_6.jpg",							
+							"numero": 49,
+							"legende": "",
+							"description": "<b>Fig. 49a: Fotografia di William Gruber (a destra) con David Bassett (a sinistra), Stanford Lane Medical Library Bassett Collection; Fig. 49b: Il professor David Bassett mentre consulta le fotografie stereoscopiche del suo <i>Atlas of Human Anatomy</i>, 1962 e dettagli dell’atlante, Stanford Lane Medical Library Bassett Collection</b><br><br>Il View-Master è anche utilizzato per scopi didattici. In queste immagini si può vedere l'inventore del View-Master lavorare con l'anatomista Bassett alla creazione di un atlante anatomico stereoscopico utilizzato per l'insegnamento della medicina."
+						},
+						{
+							"url": "1_5_7.jpg",
+							"numero": 50,
+							"legende": "",
+							"description": "<b>Fig. 50: Insieme di immagini appartenenti alla serie <i> The Nations of the World Library </i>, con opuscoli curati dal famoso giornalista e giramondo Lowell Thomas, GAF View-Master, ca 1960</b><br><br>Il viaggio rimane uno dei temi preferiti delle immagini da visualizzare con il View-Master. Raccolta in cofanetti, questa serie attinge alla tradizione del viaggio stereoscopico, anche se la teoria educativa originaria è stata notevolmente semplificata a favore di quella commerciale."
+						},
+						{
+							"url": "1_5_8.jpg",							
+							"numero": 51,
+							"legende": "",
+							"description": "<b>Fig. 51a: <i> Switzerland</i>, GAF View-Master, ca 1960, Collection <i>The Nations of the World</i>; Fig. 51b: Fotografia di Lowell Thomas, Lowell Thomas Papers, Marist College Archives and Special Collections</b><br><br>Il set appartenente alla serie <i>Nation of the World</i> dedicato alla Svizzera comprende 3 dischi con 21 vedute dei siti più interessanti del paese."
+						},
+						{
+							"url": "1_5_9.jpg",
+							"numero": 52,
+							"legende": "",
+							"description": "<b>Fig. 52: <i>Vacation Travel Guide</i>, View-Master, 1985</b><br><br>L'associazione tra il View-Master e i viaggi continuò negli anni 1980, come mostrano questi due opuscoli pubblicitari dedicati agli Stati Uniti. La serie collega su una mappa i luoghi e l’insieme di fotografie di questi siti."
+						},
+						{
+							"url": "1_5_10.jpg",
+							"numero": 53,
+							"legende": "",
+							"description": "<b>Fig. 53: Un insieme di modelli di caschi per la realtà virtuale </b><br><br>I primi caschi per la realtà virtuale sono apparsi negli anni 1990. Modelli più recenti adattati agli smartphone, tramite applicazioni specifiche, permettono di vedere immagini in 3D. Le applicazioni legate al viaggio continuano ad essere uno dei temi prescelti da questa tecnologia."
+						},
+						{
+							"url": "1_5_12.jpg",
+							"numero": 54,
+							"legende": "",
+							"description": "<b>Fig. 54a: L’applicazione <i>Expeditions</i>, Google Education, 2017; Fig. 54b: Fotografia di studenti americani che utilizzano l’applicazione in classe </b><br><br>Oggi molti sono i viaggi virtuali disponibili su Internet. \"Google Education\" ha fatto un ulteriore passo avanti e nel 2017 ha lanciato <i>Expeditions</i>, una nuova app educativa immersiva basata su tour 3D in diversi luoghi del mondo, utilizzata in molte scuole. Sebbene Google abbia smesso di aggiornare questa app nel giugno 2021, altre aziende hanno raccolto la sfida, in seguito alle numerose richieste degli utenti. Un secolo dopo Underwood & Underwood, la loro idea resta innovativa."
+						}
+						],
+					"contentRight": false,
+					"linkRight": "",
+					"nameRight": ""
+				}						 
+			]
+		},
+		{
+			"title": "Viaggi stereoscopici",
+			"textJson": "texts_chapitre_2.json",
+			"paragraphs": [{
+					"title": "I viaggi stereoscopici",
+					"images": [{
+						"url": "2_0_1.png",
+						"legende": "",
+						"description": "<b>Fig. B: \"Traveling by the Underwood Travel System. Stereographs, Guide-Books, Patent map system\", Underwood & Underwood, 1908</b><br><br>Questa stereofotografia mostra la collezione di viaggi stereoscopici, lanciata da \"Underwood & Underwood\" nel 1900. Si riconosce Bert Underwood mentre effettua un viaggio virtuale in Italia, usando lo stereoscopio, la carta e la guida. L’immagine fu scelta come copertina del catalogo di viaggi stereoscopici pubblicato nel 1908."
+					}],
+					"contentRight": false,
+					"linkRight": "",
+					"nameRight": ""
+				},
+				{
+					"title": "Gli editori Underwood & Underwood",
+					"images": [{
+							"url": "2_1_1.jpg",
+							"numero": 55,
+							"legende": "",
+							"description": "<b>Fig. 55: I giovani fratelli Elmer (1859-1947) e Bert (1862-1943) Underwood, in <i>The Photographic Journal of America</i>, 1894</b><br><br>Originari dell'Illinois, questi due fratelli fondarono la società \"Underwood & Underwood\" a Ottawa nel 1882, con lo scopo di commercializzare e eventualmente anche produrre stereofotografie. Bert Underwood si formerà in seguito come fotografo in Francia ed eseguirà molte fotografie per la sua azienda."
+						},
+						{
+							"url": "2_1_2.jpg",
+							"numero": 56,
+							"legende": "",
+							"description": "<b>Fig. 56: Elmer e Bert Underwood, in <i>Life Magazine</i>, 1947</b><br><br>Queste due fotografie mostrano i fratelli Underwood in viaggio. La prima risale al 1897 ed è stata scattata in Palestina, la seconda nel Mar Morto."
+						},
+						{
+							"url": "2_1_3.jpg",
+							"numero": 57,
+							"legende": "",
+							"description": "<b>Fig. 57: Elmer e Bert Underwood, in <i>Life Magazine</i>, 1947</b><br><br><i>Life Magazine</i> ha dedicato un articolo alla carriera dei due fratelli Underwood, quando Elmer era appena deceduto. L'articolo sottolinea che la loro reputazione internazionale era legata soprattutto all’invenzione del sistema di viaggi stereoscopici."
+						},
+						{
+							"url": "2_1_4.jpg",
+							"numero": 58,
+							"legende": "",
+							"description": "<b>Fig. 58: Elmer Underwood e la sua famiglia, 1908, con l’autorizzazione di Rob Oechsle </b><br><br>Elmer Underwood, presidente di \"Underwood & Underwood\", è qui fotografato con sua moglie, Jane Electa Boardman, con la figlia Ruth e con i figli Orland, Thomas e John. Va notato che John nacque a Ginevra nell'estate del 1905, mentre la famiglia soggiornava in quel cantone svizzero. In effetti alla fine del 1904, Elmer Underwood aveva richiesto un passaporto per intrapredere con la sua famiglia un viaggio di due anni."
+						},
+						{
+							"url": "2_1_5.jpg",
+							"numero": 59,
+							"legende": "",
+							"description": "<b>Fig. 59: Varie sedi e uffici di\"Underwood & Underwood\", in <i>The Stereoscopic Photograph</i>, 1901, con l’autorizzazione di Rob Oechsle</b><br><br>La prima immagine mostra quattro dei loro uffici e depositi di rifornimento e la seconda mostra gli spazi interni delle sedi e dei depositi aperti in diverse città del mondo."
+						}, 
+						{
+							"url": "2_1_6.jpg",
+							"numero": 60,
+							"legende": "",
+							"description": "<b>Fig. 60: La fabbrica per la costruzione di stereoscopi a Westwood, New-Jersey, in <i>The Stereoscopic Photograph</i>, 1901, con l’autorizzazione di Rob Oechsle</b><br><br>All'inizio \"Underwood & Underwood\" comprava i suoi stereoscopi da \"H. C. White & Co.\", il più importante produttore americano di stereoscopi. Alla fine del 1890, la crescente domanda, spinse l'azienda ad aprire una propria fabbrica nel New Jersey."
+						},
+						{
+							"url": "2_1_7.jpg",
+							"numero": 61,
+							"legende": "",
+							"description": "<b>Fig. 61a: Stereoscopo \"Sun sculpture\" commercializzato Underwood & Underwood, &copy; Fabrice Ducrest, UNIL; Fig. 61b: Le fasi di produzione degli stereoscopi nella fabbrica Underwood di Westwood, in <i>The Stereoscopic Photograph</i>, 1901, con l’autorizzazione di Rob Oechsle </b><br><br>\"Underwood & Underwood\" produceva circa 300’000 stereoscopi all’anno. Il brevetto per lo stereoscopio \"Sun sculpture\" fu registrato a New York l'11 giugno 1901."
+						},
+						{
+							"url": "2_1_8.jpg",
+							"numero": 62,
+							"legende": "",
+							"description": "<b>Fig. 62a: Le fasi di produzione delle carte stereoscopiche; Fig. 62b: \"Patent Extension Stereograph Cabinet\", in <i>The Stereoscopic Photograph</i>, 1901, con l’autorizzazione di Rob Oechsle </b><br><br>La prima immagine mostra diverse fasi della fabbricazione di carte stereoscopiche nello stabilimento di Arlington, New Jersey. Alcuni studiosi affermano che \"Underwood & Underwood\" produceva nel 1901 circa 25.000 stereofotografie stampate e incollate su cartone al giorno. L'altra immagine mostra la gamma di prodotti offerti per l'organizzazione e la vendita della loro produzione."
+						},
+						{
+							"url": "2_1_10.jpg",
+							"numero": 63,
+							"legende": "",
+							"description": "<b>Fig. 63: Il fotografo Henry A. Strohmeyer, vice presidente d'Underwood & Underwood, con l’autorizzazione di Rob Oechsle </b><br><br>I fratelli Underwood si avvalgono dell'aiuto di numerosi collaboratori prestigiosi. Il fotografo Henry Strohmyer era comproprietario della casa editrice \"Strohmeyer & Wyman\". Dopo essersi associato ai fratelli Underwood, nel 1901 vende loro la sua attività e diventa vicepresidente della società.  Le sue stereofotografie, realizzate durante il soggiorno in Giappone nel 1896, ebbero un grande successo."
+						},
+						{
+							"url": "2_1_11.jpg",							
+							"numero": 64,
+							"legende": "",
+							"description": "<b>Fig. 64a: \"Professor James Ricalton and two of his Cashmere friends at the Durbar, Delhi, India\"; Fig. 64b: \"An Underwood & Underwood platform - Professor James Ricalton stereographing the great Durbar, Delhi, India\", Underwood & Underwood, 1903, Library of Congress</b><br><br>Il fotografo ed esploratore James Ricalton fu uno dei primi collaboratori dei fratelli Underwood. E l'autore di  due dei più importanti viaggi stereoscopici d'Underwood quello in India (1900) e quello in China (1901). Nel 1903, riceve l’incarico di fotografare il Durbar di Delhi, una cerimonia tradizionale tenuta per celebrare il nuovo imperatore dell'India, Edoardo VII. Il suo lavoro inaugura in un certo senso il reportage fotografico che diventerà l'attività privilegiata di \"Underwood &Underwood\" dopo il 1910."
+						},
+						{
+							"url": "2_1_12.jpg",							
+							"numero": 65,
+							"legende": "",
+							"description": "<b>Fig. 65: Il professore James Henry Breasted, con la moglie e il figlio ad Abu Simbel, Egypte, dettaglio di una fotografia del 1906, Oriental Institute Museum, The University of Chicago</b><br><br>James Henry Breasted, un archeologo americano, era uno dei più importanti studiosi dell'antico Egitto. È l'autore di <i>Egypt through the Stereoscope: A Journey through the Land of the Pharaohs</i>, pubblicato da \"Underwood & Underwood\" nel 1901."
+						},
+						{
+							"url": "2_1_9.jpg",							
+							"numero": 66,
+							"legende": "",
+							"description": "<b>Fig. 66: <i>The Stereoscopic photograph</i> e <i>The Traveller</i>, Underwood & Underwood, 1901 et 1903</b><br><br>Nel 1901 i fratelli Underwood lanciarono questa rivista dedicata alla stereoscopia. Il periodico tuttavia non ebbe molto successo e, nonostante nel 1903 il suo titolo fu trasformato in <i>The Traveller</i>, cessò la pubblicazione nel 1904."
+						}
+					],
+					"contentRight": false,
+					"linkRight": "",
+					"nameRight": ""
+				},
+				{
+					"title": "Viaggi virtuali",
+					"images": [{
+							"url": "2_2_1.jpg",
+							"numero": 67,
+							"legende": "",
+							"description": "<b>Fig. 67: Per avere a portata di mano i paesi lontani basta avere a portata di mano il sistema di viaggio Underwood, in <i> Catalogue No 28. The Underwood Travel System</i>, Underwood & Underwood, 1907 ca, Archives Center, National Museum of American History</b><br><br>Alla fine del XIX secolo, gli editori \"Underwood & Underwood\" lanciarono un nuovo concetto di viaggio stereoscopico.  Questa immagine è una delle illustrazioni del catalogo dedicato a questi viaggi. La didascalia rafforza il messaggio trasmesso dall'immagine e sottolinea l'importanza attribuita all'esperienza visiva che caratterizza questo sistema. Ma il dito che si appoggia sull'Egitto sembra evocare anche lo stretto legame che la fotografia stereoscopica stabilisce tra il senso della vista e quello del tatto, già segnalato da Oliver Wendell Holmes nel 1859."
+						},
+						{
+							"url":"2_2_1_c.jpg",
+							"numero": 68,
+							"legende": "",
+							"description": "<b>Fig. 68a: Charles Piazzi Smyth,  <i>Tenerijfe, an Astronomer's Experiment; or, Specialities of a Residence above the Clouds</i>, London, 1858; Fig. 68b: \"Smith, Beck & Beck book stereoscope\", 1859</b><br><br>Fin dall'inizio, il viaggio è uno dei temi favoriti dai produttori di stereofotografia. Questo è il primo libro illustrato con fotografie stereoscopiche. Fu pubblicato da Lovell Reeve, un editore londinese che fondò anche la prima rivista interamente illustrata con fotografie stereoscopiche, <i>The Stereoscopic Magazine</i>.  Si tratta del resoconto del viaggio a Tenerife fatto dall'astronomo Piazzi Smyth, nel giugno 1856. Le 20 stereofotografie all'albumina, scattate dall'autore stesso, potevano essere viste in tre dimensioni attraverso uno stereoscopio di cartone progettato dall'editore e prodotto dallo studio fotografico \"Negretti & Zambra\". L'anno seguente \"Smith Beck & Beck\", un produttore londinese di strumenti ottici, brevettò uno stereoscopio prismatico per libri più sofisticato e che poteva essere adattato a immagini di diverse dimensioni."
+						},
+						{
+							"url":"2_2_1_b.jpg",
+							"numero": 69,
+							"legende": "",
+							"description": "<b>Fig. 69: <i>Egypt, Nubia, and Ethiopia: illustrated by one hundred stereoscopic photographs taken by Francis Frith for Messrs. Negretti and Zambra with descriptions and numerous wood engravings by Joseph Bonomi ; and notes by Samuel Sharpe</i>, London, 1862</b><br><br>Seguirono altri libri illustrati con fotografie stereoscopiche, il più ambizioso dei quali è questo libro illustrato con le fotografie scattate sul posto nel 1859 dal fotografo britannico Francis Frith. Si tratta di un'edizione di valore riservata a un pubblico limitato. Lo stereoscopio, appositamente adattato per l'uso di questo volume, era venduto da \"Negretti & Zambra\", lo studio fotografico londinese che aveva finanziato la spedizione fotografica di Frith e che commercializzava le 500 stereofotografie realizzate durante questo viaggio."
+						},
+						{
+							"url":"2_2_1_d.jpg",
+							"numero": 70,
+							"legende": "",
+							"description": "<b>Fig. 70: <i>La Suisse Pittoresque</i>, Paris, 1860</b><br><br>La pubblicazione di libri di viaggio illustrati con fotografie stereoscopiche rimane limitata. Le fotografie di viaggio erano vendute in tutto il mondo principalmente in serie, come quelle pubblicate da William England e Adolph Braun (Fig. 32) o quella venduta dall'editore parigino \"Furne et Fils Tournier\". <i>La Suisse Pittoresque</i>, presenta 158 stéréofotografie numerate secondo degli itinerari organizzati per cantone. Tutte queste serie offrono una sorta di viaggio virtuale dove il carattere necessariamente frammentario di ogni fotografia è compensato dalla quantità di vedute offerte, allo scopo di contestualizzare il viaggio nel suo insieme. Il testo che le accompagna si limita tuttavia a una didascalia che fornisce il numero e il luogo rappresentato o talvolta una breve descrizione stampata sul retro."
+						},
+						{
+							"url": "2_2_2.jpg",							
+							"numero": 71,
+							"legende": "",
+							"description": "<b>Fig. 71: \"Albert E. Osborne, Educational system\", Patent n. 656, 569</b><br><br>Il brevetto del \"Underwood Travel System\", depositato il 6 dicembre 1899 da Albert E. Osborne, collaboratore di \"Underwood & Underwood\", costituisce un cambiamento fondamentale nell'organizzazione delle serie di viaggi stereoscopici. Il brevetto, approvato il 21 agosto 1900, propone l'uso combinato di stereofotografie, mappe georeferenziate e testi descrittivi, destinati principalmente all'insegnamento della geografia, ma anche alla realizzazione di viaggi stereoscopici. Si tratta di un'intermedialità che favorisce l'integrazione delle immagini in un insieme coerente volto a facilitare la realizzazione di veri e propri viaggi virtuali immersivi."
+						},
+						{
+							"url": "2_2_3.jpg",							
+							"numero": 72,
+							"legende": "",
+							"description": "<b>Fig. 72a: Oliver Wendell Holmes, <i>The stereoscope and stereoscopic photographs</i>, Underwood & Underwood, 1898; Fig. 72b: <i>A Trip around the World by Means of Stereoscope</i>, Underwoowd & Underwood, 1900; Fig. 72c: Albert E. Osborne, <i>The stereograph and the stereoscope</i>, Underwood & Underwood, 1909</b><br><br>La prima serie di stereofotografie dell'\"Underwood Travel System\", <i>A Trip around the World</i>, fu pubblicata nel 1900. L'editore pubblica anche libri teorici, come i famosi scritti di Oliver Wendell Holmes, pubblicati nell’<i>Atlantic Monthly</i> e il libro di A. E. Osborne sullo stereoscopio pubblicato nel 1909."
+						},
+						{
+							"url": "2_2_4.jpg",
+							"numero": 73,
+							"legende": "",
+							"description": "<b>Fig. 73: Albert E. Osborne, <i>An alternative for revolution and war; a more humanity-centered education</i>, Educational Screen, 1939</b><br><br> A. E. Osborne, all’origine del sistema di viaggi \"Underwood & Underwood nel 1939, probabilmente spinto dai venti di guerra, vuole dimostrare in questo libro che il viaggio può allargare gli orizzonti mentali delle popolazioni e persino essere un antidoto ai conflitti."
+						},
+						{
+							"url": "2_2_11.jpg",							
+							"numero": 74,
+							"legende": "",
+							"description": "<b>Fig. 74: <i>Traveling in the Holy Land through the stereoscope:a tour conducted by Jesse Lyman Hurlbut</i>, Underwood & Underwood, 1900</b><br><br>I fratelli Underwood incaricano Hurlbut di scrivere la guida di questo set completo, pubblicato nel 1900.  Hurlbut era un ecclesiastico americano della Chiesa Metodista Episcopale. Era anche molto attivo nell'istituzione educativa delle \"Sunday Schools\" e nell'organizzazione del centro di formazione aperto a Chautauqua, New York."
+						},
+						{
+							"url": "2_2_7.jpg",
+							"numero": 75,
+							"legende": "",
+							"description": "<b>Fig. 75: <i>Italy through the stereoscope: journeys in and about Italian cities, conducted by D. J. Ellison</i>, Underwood & Underwood, 1900</b><br><br>Questo set ha conosciuto diverse edizioni e traduzioni. Scritta dal reverendo Daniel James Ellison, attivo nel movimento delle \"Sunday Schools\", la guida è introdotta da James C. Egbert, professore di epigrafia e archeologia romana alla Columbia University."
+						},
+						{
+							"url": "2_2_7a.jpg",
+							"numero": 76,
+							"legende": "",
+							"description": "<b>Fig. 76a: <i>A pilgrimage to see the Holy Father, through the stereoscope, conducted by John Talbot Smith</i>, Underwood & Underwood, 1907, Fig. 76b: \"Pope Pius X bestowing his benediction as Supreme Pontiff, from his throne in the Vatican\"; Fig. 76c: \"Silver Medal from his Holiness the Pope\"</b><br><br>Subito dopo l'elezione di Pio X al soglio pontificio nel 1903, \"Underwood & Underwood\", ottiene il privilegio di fotografare il nuovo pontefice. Pio X gli offre una medaglia d'argento con la sua effigie come ringraziamento. Il reverendo e scrittore John Talbot Smith, autore della guida, era presidente della \"Catholic Summer School of America\"."
+						},
+						{
+							"url": "2_2_6.jpg",
+							"numero": 77,
+							"legende": "",
+							"description": "<b>Fig. 77: <i>China through the stereoscope; a journey through the dragon empire at the time of the Boxer uprising personally conducted by James Ricalton</i>, Underwood & Underwood, 1901</b><br><br>James Ricalton pubblica due dei più importanti viaggi stereoscopici: <i>India through the Stereoscope</i>, 1900 e <i>China Through the Stereoscope</i>, 1901. A differenza delle altre serie complete, Ricalton fornisce non solo i testi, ma anche le stereofotografie."
+						},
+						{
+							"url": "2_2_9.jpg",
+							"numero": 78,
+							"legende": "",
+							"description": "<b>Fig. 78: <i>Egypt through the stereoscope: a journey through the land of the Pharaohs conducted by James Henry Breasted</i>, Underwood & Underwood, 1901</b><br><br>L'archeologo James Henry Breasted fu il primo professore di Egittologia e Storia Orientale negli Stati Uniti. Nel 1900 accetta di scrivere la guida di un nuovo viaggio stereoscopico in Egitto. Arricchito da un atlante di 20 carte, questo cofanetto ebbe un grande successo."
+						},
+						{
+							"url": "2_2_8_a.jpg",							
+							"numero": 79,
+							"legende": "",
+							"description": "<b>Fig. 79: <i>The United States of America through the stereoscope; one hundred outlooks from successive positions in different parts of the world's greatest republic</i>, Underwood & Underwood, 1904</b><br><br>Anche per gli Stati Uniti gli editori hanno pubblicato un viaggio stereoscopico completo, che comprende 100 stereofotografie, due carte, una generale e una delle cascate del Niagara, e due mappe, una di Washington e l'altra di New York. A differenza degli altri viaggi, l'introduzione non include la parte storica e l'autore della guida rimane anonimo. Questo viaggio ha avuto un’altra edizione nel 1911. Sono stati pubblicati anche altri viaggi in varie regioni degli Stati Uniti."
+						},
+						{
+							"url": "2_2_8_d.jpg",							
+							"numero": 80,
+							"legende": "",
+							"description": "<b>Fig. 80: Charles Johnston, <i>Ireland through the stereoscope</i>, Underwood & Underwood, 1907</b><br><br>Questo cofanetto è composto da 100 stereofotografie, 7 carte e una guida. Scrittore, teosofo, naturalista e orientalista irlandese, Charles Johnston fondò la \"Hermetic Society in Dublin\" insieme ai poeti e scrittori irlandesi W. B. Yeats e G. W. Russell. Trasferitosi negli Stati Uniti nel 1896, scrisse numerose opere teosofiche. Presidente della \"Irish Literary Society\", ha pubblicato anche diversi libri illustrati per il grande pubblico, tra cui <i>Ireland, historic and picturesque</i> (1902) e <i>Ireland's story</i> (1905)"
+						},
+						{
+							"url": "2_2_8_b.jpg",							
+							"numero": 81,
+							"legende": "",
+							"description": "<b>Fig. 81: <i>Greece through the stereoscope a tour conducted by Rufus Byam Richardson</i>, Underwood & Underwood,  1907</b><br><br>Il viaggio stereoscopico in Grecia fu pubblicato nel 1907. Si tratta di un cofanetto completo, che include 100 stereofotografie, 18 carte e una guida. L'autore del testo è l'ellenista Rufus Byam Richardson, direttore dell'\"American School of Classical Studies\" di Atene."
+						},
+						{
+							"url": "2_2_10.jpg",
+							"numero": 82,
+							"legende": "",
+							"description": "<b>Fig. 82a: Pagina del <i> Catalogue No 28. The Underwood Travel System</i>, Underwood & Underwood, 1907 ca, Archives Center, National Museum of American History; Fig. 782b: <i>India through the stereoscope: a journey through Hindustan conducted by James Ricalton</i>, Underwood & Underwood, 1907</b><br><br>Per spiegare la funzione delle carte, i fratelli Underwood scelgono, per il loro catalogo, l'esempio della città di Agra estratta dal viaggio in India redatto da James Ricalton."
+						},
+						{
+							"url": "2_2_5_a.jpg",
+							"numero": 83,
+							"legende": "",
+							"description": "<b>Fig. 83: \"Underwood Stereoscopic Tours\", in <i>Real children in many lands : a series of visits through the stereoscope, guided by M. S. Emery</i>, Underwood & Underwood, 1914</b><br><br>La maggior parte delle guide include una lista dei viaggi stereoscopici pubblicati. Il concetto di \"tour\" è molto ampio e comprende anche percorsi tematici. Si tratta di un centinaio di set, dei quali solo alcuni sono completi (Palestina, India, Italia, Cina, Egitto, Russia, Svizzera, ecc.), cioè contengono 100 stereofotografie, una guida e delle carte."
+						}
+					],
+					"contentRight": false,
+					"linkRight": "",
+					"nameRight": ""
+				},
+				{
+					"title": "Dopo Underwood: Keystone View & Co.",
+					"images": [{
+							"url": "2_4_1.png",
+							"numero": 84,
+							"legende": "",
+							"description": "<b>Fig. 84: \"The Keystone System of Travel\", con l’autorizzazione di Rob Oechsle</b><br><br>Tra il 1912 e il 1923, \"Underwood & Underwood\" vende tutti i suoi negativi stereoscopici e il brevetto al suo principale concorrente americano. \"Keystone View & Co.\" che diventa il più grande produttore mondiale di stereofotografie. La società mantiene la produzione dei viaggi stereoscopici come lo mostra questo annuncio."
+						},
+						{
+							"url": "2_4_2.jpg",							
+							"numero": 85,
+							"legende": "",
+							"description": "<b>Fig. 85: Benjamin Lloyd Singley (a sinistra), ca 1927, con l’autorizzazione di Rob Oechsle</b><br><br>\"Keystone View & Co.\" è fondata nel 1892 da Benjamin Lloyd Singley, un fotografo dilettante della Pennsylvania. Inizia pubblicando un insieme di 30 stereofotografie prese per mostrare i disastri causati a Meadville dalle inondazioni del French Creek nel giugno di quell'anno."
+						},
+						{
+							"url": "2_4_3.jpg",
+							"numero": 86,
+							"legende": "",
+							"description": "<b>Fig. 86a: Manuali per i venditori di stereofotografie, Underwood & Underwood, 1892 e Keystone View & Co., 1898;  Fig. 86b: \"Still There's No Place Like Home\", Keystone View & Co., ca 1915</b><br><br>Prima di fondare \"Keystone View & Co.\", Singley aveva lavorato come venditore per \"Underwood & Underwood\". Approfittò dell'esperienza acquisita e pubblicò un manuale per i suoi venditori a domicilio. Il metodo adottato è quello di \"Underwood & Underwood\". Questo si basa su agenti, spesso studenti universitari, a cui viene dato un territorio da coprire durante le vacanze."
+						},
+						{
+							"url": "2_4_4.jpg",
+							"numero": 87,
+							"legende": "",
+							"description": "<b>Fig. 87: Due edizioni di <i>Palestine through the stereoscope</i>, Underwood & Underwood ca 1900 e Keystone View & Co., 1914</b><br><br>\"Keystone View & Co. \" ristampa alcuni dei set di \"Underwood & Underwood\", come quello mostrato qui. Si tratta di una nuova edizione pubblicata nel 1914 per la quale vengono utilizzate le stesse carte. Queste sono leggermente modificate perché il set offre nuove stereofotografie che sono contrassegnate sulle carte in verde e con una lettera accanto al numero."
+						},
+						{
+							"url": "2_4_5.jpg",							
+							"numero": 88,
+							"legende": "",
+							"description": "<b>Fig. 88: \"Bethlehem of Judea, the birthplace of Jesus\", stereofotografie pubblicate nelle due edizioni di <i>Palestine through the stereoscope</i>, Underwood & Underwood, ca 1900 e Keystone View & Co., 1914</b><br><br>Questo esempio mostra che gli stessi negativi sono stati usati spesso per stampare molte delle fotografie presenti in entrambe le edizioni."
+						},
+						{
+							"url": "2_4_6.jpg",
+							"numero": 89,
+							"legende": "",
+							"description": "<b>Fig. 89: Due fotografie di: \"Big Feet\", Underwood & Underwood, ca 1900 e Keystone View & Co., 1927, Keystone-Mast Collection, UCR-California Museum of Photography, University of California, Riverside</b><br><br>Queste due immagini dimostrano che per promuovere le qualità della stereoscopia Singley si è ispirato alla stereofotografia prodotta da \"Underwood & Underwood\" quasi trent'anni prima. Anche Keystone pubblicò una rivista tra il 1899 e il 1909, ma la <i>Keystone Review</i>, era destinata solo ai suoi agenti."
+						},
+						{ 	
+							"url": "2_4_7.jpg",
+							"numero": 90,
+							"legende": "",
+							"description": "<b>Fig. 90a: Albert E. Osborne <i> Why Man Has Used Pictures...</i>, Underwood & Underwood, 1904; Fig. 90b: Annuncio pubblicitario che confronta il telefono e lo stereoscopio, Keystone View & Co.</b><br><br>In questo scritto Osborne riafferma l'importanza dell'esperienza della realtà fornita dall'uso dello stereoscopio che avvicina a quella fornita dall'uso del telefono. \"Keystone View & Co.\" usa lo stesso paragone come argomento pubblicitario."
+						},
+						{
+							"url": "2_4_8.jpg",
+							"numero": 91,
+							"legende": "",
+							"description": "<b>Fig. 91: Stereofotografie promozionali per i sistemi a di viaggi commercializzati da Underwood & Underwood, 1908 e da Keystone View & Co., s.d., Keystone-Mast Collection, UCR-California Museum of Photography, University of California, Riverside</b><br><br>Ancora una volta il confronto tra queste due stereofotografie mostra che Singley attinge costantemente alle idee del suo principale concorrente. In questa stereofotografia dà al suo scrittore più famoso, Burton Holmes, autore di <i>A trip around the world through the stereoscope</i> pubblicato nel 1926, il ruolo del viaggiatore virtuale."
+						},
+						{
+							"url": "2_4_10.jpg",							
+							"numero": 92,
+							"legende": "",
+							"description": "<b>Fig. 93a: Burton Holmes, <i>A trip around the World through the Telebinocular</i>, Keystone View & Co., 1930; Fig. 93b \"Map of Washington\", in <i>Locating maps for use with A trip around the world through the stereoscope with Burton Holmes</i>, Keystone View & Co., 1926</b><br><br>La prima edizione di questo giro del mondo fu pubblicata nel 1926. Consiste in una serie di 400 stereofotografie, accompagnate da una guida e un piccolo atlante contenente tre carte geolocalizzate. Due sono mappe di Washington e Chicago e la terza è una carta del mondo."
+						},
+						{
+							"url": "2_4_9.jpg",
+							"numero": 93,
+							"legende": "",
+							"description": "<b>Fig. 92: Annunci pubblicitari per uno spettacolo e per un libro di Burton Holmes, in <i>Moving Picture World</i>, 1917 e in <i> Visual Education</i>, 1921</b><br><br>Singley sceglie per la redazione della sua guida principale il celebre giramondo americano Burton Holmes. Questo fotografo e scrittore aveva guadagnato una fama internazionale grazie alle sue conferenze illustrate dalla proiezione delle fotografie realizzate durante i suoi numerosi viaggi."
+						},
+						{
+							"url": "2_4_11.jpg",
+							"numero": 94,
+							"legende": "",
+							"description": "<b>Fig. 94: \"Map of the World of Mercator's Projection\", in <i>Locating maps for use with A trip around the world through the stereoscope with Burton Holmes</i>, Keystone View & Co., 1926</b><br><br>Nel 1926, \"Keystone View & Co.\" aggiorna la carta del mondo, pubblicata nel 1904 da \"Underwood & Underwood\", per il libro <i>Trip around the world by means of stereoscope</i>. Questa mostra con linee rosse il percorso ideale che collega le stereofotografie geolocalizzate per mezzo dei numeri cerchiati in rosso. Tuttavia, la carta è di difficile lettura a causa della vastità del territorio rappresentato."
+						},
+						{
+							"url": "2_4_12.jpg",
+							"numero": 95,
+							"legende": "",
+							"description": "<b>Fig. 95: <i>Stereographic Library: Tour of the World</i> et \"Telebinocular\", Keystone View & Co., 1933</b><br><br> Questa serie è composta da 1'200 stereofotografie, divise in 24 volumi, completata dal telebinocolo, un nuovo stereoscopio creato da \"Keystone View & Co.\". Dal 1926 fino all'edizione del 1936, le guide che accompagnano questo set sono redatte da Burton Holmes, allora all'apice della sua fama."
+						},
+					{
+							"url": "2_4_14.jpg",
+							"numero": 96,
+							"legende": "",
+							"description": "<b>Fig. 96: Il cofanetto <i>Switzerland. As seen through the stereoscope photographs</i>, London, Realistic Travels, London, ca 1915 e il cofanetto <i>Switzerland</i> e altri cofanetti della collezione <i>World travel tours</i>, ‎New York City, Stereo-Travel Co., Corona, ca 1925 </b><br><br>Nei primi decenni del XX secolo, altri editori pubblicano collezioni di viaggi stereoscopici. Nessuno di questi set adotta il sistema \"Underwood & Underwood\" perché era protetto dal brevetto ceduto a \"Keystone View & Co. \"."
+						}],
+					"contentRight": false,
+					"linkRight": "",
+					"nameRight": ""
+				},
+				{
+					"title": "L’utilizzo pedagogico",
+					"images": [{
+							"url": "2_5_1.png",
+							"numero": 97,
+							"legende": "",
+							"description": "<b>Fig. 97: \"The stereograph as an educator - Underwood patent extension cabinet in a home library\", Underwood & Underwood, 1901, Library of Congress</b><br><br>Questa stereofotografia promozionale è una sorta di manifesto del programma educativo lanciato nel 1901 da \"Underwood & Underwood\". La didascalia sottolinea l'associazione tra questa immagine e l'uso educativo dello stereoscopio."
+						},
+						{
+							"url": "2_5_4_f.jpg",
+							"numero": 98,
+							"legende": "",
+							"description": "<b>Fig.98a: A. Neisser, <i>Stereoscopischer Medicinischer Atlas</i>, Cassel, Th. G. Fisher & Co., 1895; Fig. 98b: D. J. Cunningham et al., <i>The Edinburgh Stereoscopic Atlas of Anatomy</i>, Meadville, Keystone View & Co., 1929; Fig. 98c: <i>The World in the stereoscope</i>, Hart & Anderson, New-York, 1872 </b><br><br>Nel XIX secolo, l'uso della stereoscopia interessò anche la ricerca scientifica e l'insegnamento. Per esempio, dal 1895 al 1930, per la formazione dei futuri medici vengono pubblicati diversi atlanti anatomici illustrati con fotografie stereoscopiche. La loro utilità è confermata dal fatto che un atlante anatomico fu tra i primi prodotti realizzati anche per il View-Master (vedi Fig. 43). Ma all'inizio, le immagini stereoscopiche sono raccomandate soprattutto per l'insegnamento della geografia. Il manuale <i>The World in the Stereoscope</i>, che descrive una serie d'illustrazioni stereoscopiche destinate all’uso scolastico, risale al 1872."
+						},
+						{
+							"url": "2_5_2.jpg",
+							"numero": 99,
+							"legende": "",
+							"description": "<b>Fig. 99a: J. F. Antoine Claudet, \"The Geography Lesson\", dagherrotipo stereoscopico, 1851, Harry Ransom Center, The University of Texas at Austin; Fig. 99b: \"Traveling the Globe with a stereoscope\", stereofotografia, Underwood & Underwood, ca 1900, con l'autorizzazione di Rob Oechsle</b><br><br>Il dagherrotipo stereoscopico realizzato nel 1851 da Antoine Claudet, uno dei più importanti fotografi dell'epoca vittoriana, è il primo a illustrare una sorta di viaggio visivo virtuale, utilizzato come supporto educativo. La stereofotografia di \"Underwood & Underwood\", pubblicata 50 anni dopo, si ispira chiaramente al dagherrotipo d'Antoine Claudet."
+						},
+						{
+							"url": "2_5_3.jpg",							
+							"numero": 100,
+							"legende": "",
+							"description": "<b>Fig. 100a: P. Emerson and W. C. Moore, <i>Geography through the stereoscope</i>, Underwood & Underwood, 1907; Fig. 100b:\"Students in geography class viewing stereoscopic photographs\", Underwood & Underwood, ca 1908, Library of Congress</b><br><br>Nel 1907, i fratelli Underwood pubblicano il primo manuale destinato a facilitare l'uso dello stereoscopio nell'insegnamento della geografia. La sua stesura viene affidata a Philip Emerson, preside della \"Cobbet School\" di Lynn, fu uno dei più attivi insegnanti di geografia del New England. Ha scritto questo libro di testo con il suo collega William Charles Moore, professore di geologia e geografia alla \"Salem Normal School\", istituto di formazione per futuri insegnanti, aperto a tutte le classi sociali. La seconda immagine mostra l'uso dello stereoscopio e del libro di testo in una scuola americana."
+						},
+						{
+							"url": "2_5_5.jpg",
+							"numero": 101,
+							"legende": "",
+							"description": "<b>Fig. 101a: Domande sui ghiacciai, in P. Emerson and W. C. Moore, <i>Geography through the stereoscope</i>, Underwood & Underwood, 1907; Fig. 101b: \"Breithorn, Monte Rosa group, from the Gornergrat\" in <i>Switzerland through the stereoscope; a journey over and around the Alps, conducted by M. S. Emery</i>, Underwood & Underwood, 1901</b><br><br>Questo è un esempio di utilizzo di un'immagine appartenente al cofanetto <i>Switzerland through the stereoscope...</i>. Le domande sui ghiacciai guidano lo studente a un'attenta osservazione delle immagini, dei testi e delle carte."
+						},
+						{
+							"url": "2_5_13.jpg",
+							"numero": 102,
+							"legende": "",
+							"description": "<b>Fig. 102a: Due annunci pubblicitari, in <i>Journal of Education</i>, 1913; Fig. 102b: \"Stereoscope\" in <i>The encyclopedia of Sunday schools and religious education</i>, 1915</b><br><br>Per promuovere l'applicazione dello stereoscopio nel settore dell'istruzione, \"Underwood & Underwood\" lancia un'importante campagna pubblicitaria nella stampa specializzata."
+						},
+						{
+							"url": "2_5_6.jpg",							
+							"numero": 103,
+							"legende": "",
+							"description": "<b>Fig. 103a: 1) \"Jungfrau; 2) Lucerne et Pilatus\", in Mabel Sarah Emery, <i>Switzerland through the stereoscope…</i> et Diapositive per lanterne, Lowell Thomas Papers, Marist College Archives and Special Collections; Fig. 103b: F. M. McMurry, <i>The world visualized for the classroom. Teacher manuel</i>, Underwood & Underwood, 1915</b><br><br>\"Underwood & Underwood\" incarica Frank Morton McMurry, fratello di Charles, una figura importante nel rinnovamento della pedagogia americana, di scrivere il manuale per gli insegnanti che utilizzano lo stereoscopio e le lanterne magiche nelle loro classi. In questo lavoro è affiancato da 24 eminenti professori che confermano l'importanza del sistema cartografico, associato alla visione di fotografie stereoscopiche, per ottenere <i>un'esperienza di localizzazione nel luogo raffigurato</i>. Il professor George Trumbull Ladd, fondatore del laboratorio di psicologia dell'Università di Yale, afferma addirittura che: <i>Si può davvero dire che la persona vede il luogo stesso</i>."
+						},
+						{
+							"url": "2_5_8.jpg",
+							"numero": 104,
+							"legende": "",
+							"description": "<b>Fig. 104a: N. 39, \"Nature's Cathedrals, Piz Bernina and Roseg, Roseg Valley, Engadine, e dettaglio della carta n. 6, in Mabel Sarah Emery, <i>Switzerland through the stereoscope…</i>; Fig. 104b \"Physiography lesson by the Underwood stereograph system, high school Plainfield, N.J.\", Underwood & Underwood, s.d., Library of Congress</b><br><br>Il sistema di mappatura di \"Underwood & Underwood\" facilita l'uso di queste collezioni anche nell’ambito dell'istruzione superiore."
+						},{
+							"url": "2_5_7.jpg",
+							"numero": 105,
+							"legende": "",
+							"description": "<b>Fig. 105a: Estratto da F. M. McMurry, <i>The world visualized for the classroom. Teacher manuel</i>, Underwood & Underwood, 1915; Fig. 105b: Aula con giovani allievi che utilizzano gli stereoscopi., Keystone-Mast Collection, UCR-California Museum of Photography, University of California, Riverside; Fig. 96c: Dettaglio della disposizione degli allievi nelle classi che usano lo stereoscopio </b><br><br>Curato da Frank McMurray, questo manuale, scritto da specialisti riconosciuti, è adatto anche all'insegnamento nella scuola primaria. Il piano nella terza figura è tratto dal brevetto registrato da Albert E. Osborne (Fig. 71)."
+						},
+						{
+							"url": "2_5_9.jpg",
+							"numero": 106,
+							"legende": "",
+							"description": "<b>Fig. 106a: <i>Visual education through stereographs and lantern slides</i>, Keystone View & Co., 1917; Fig. 106b:Stereofotografie; Fig. 106c:Diapositive per lanterne, Lowell Thomas Papers, Marist College Archives and Special Collections</b><br><br>\"Keystone View & Co.\" pubblica una nuova edizione di questo manuale, edito per la prima volta nel 1906. L’edizione è stata aggiornata sulla base dell'esperienza acquisita dopo 10 anni di sperimentazione in molte scuole."
+						},
+						{
+							"url": "2_5_14.jpg",
+							"numero": 107,
+							"legende": "",
+							"description": "<b>Fig. 107: N. 446, \"Blowing the alpine horn, Grindelwald, Switzerland\", Esempio di diversi riferimenti a questa immagine da <i>Visual education; teachers' guide to Keystone \"Primary set.\" </i>, Keystone View & Co., 1920</b><br><br>Questo libro di testo di quasi 600 pagine è costruito con il metodo dei riferimenti incrociati adottato da \"Keystone View & Co. \". Secondo questo metodo, ogni fotografia può essere utilizzata per illustrare diversi argomenti in classe, attraverso un riferimento al numero dell'immagine."
+						},
+						{
+							"url": "2_5_10.jpg",
+							"numero": 108,
+							"legende": "",
+							"description": "<b>Fig. 108: Due annunci pubblicitari, in <i>Visual Education</i>, vol. 1, 1920</b><br><br>\"Keystone View & Co.\" continua la campagna pubblicitaria lanciata da \"Underwood & Underwood\" nella stampa specializzata, segnalando addirittura di aver acquisito la sua collezione."
+						},
+						{
+							"url": "2_5_11.jpg",
+							"numero": 109,
+							"legende": "",
+							"description": "<b>Fig. 109: Annunci pubblicitari di Keystone View & Co. in <i>The educational screen</i>, 1921-1923</b><br><br>In queste pubblicità viene promosso il libro di testo della scuola primaria pubblicato nel 1920. Per la scrittura dei suoi diversi capitoli, \"Keystone View & Co.\" ha ricorso a diversi pedagoghi rinomati, tra cui numerose donne."
+						},
+						{
+							"url": "2_5_14_a.jpg",
+							"numero": 110,
+							"legende": "",
+							"description": "<b>Fig. 110: \"The world in three dimensions\", Pannello pubblicitario, Keystone & Co, s.d., UCR-California Museum of Photography, University of California, Riverside.</b><br><br> Questo pannello di \"Keystone View & Co.\" promuove l'uso educativo del suo sistema di viaggi. La pubblicità mette in evidenza la ricchezza degli argomenti trattati attraverso il sistema dei riferimenti incrociati e il prestigio degli insegnanti che hanno collaborato alla classificazione delle immagini e dei soggetti. Benché diverse donne figurino tra le autrici di questi manuali, nessuna donna viene rappresentata in questo pannello."
+						},
+						{
+							"url": "2_5_12.jpg",
+							"numero": 111,
+							"legende": "",
+							"description": "<b>Fig. 111: Adulti e giovani studenti che utilizzano degli stereoscopi nelle biblioteche statunitensi (Fort Wayne, Indiana; Public Library, Syracuse, New York; Iron Range Public Library, Virginia, Minn; Kansas City Public Library), 1925-1930 ca, Keystone-Mast Collection, UCR-California Museum of Photography, University of California, Riverside</b><br><br>Gli strumenti di visualizzazione stereoscopica erano costosi e rendevano difficile il loro acquisto per le piccole scuole. Gli editori capirono l’importanza delle biblioteche pubbliche e le sollecitarono per acquisire e mettere a disposizione del pubblico questo materiale pedagogico."
+						}],
+					"contentRight": false,
+					"linkRight": "",
+					"nameRight": ""
+				}					
+			]
+		},
+		{
+			"title": "La Svizzera in stereoscopia",
+			"textJson": "texts_chapitre_3.json",
+			"paragraphs": [{
+					"title": "La Svizzera in stereoscopia",
+					"images": [{
+						"url": "3_0_1_a.jpg",						
+						"legende": "",
+						"description": "<b>Fig. C: \"The Matterhorn seen from the Schwarzsee\" e \"A Remnant of the Glacial Period - huge Mer de Glace and Grandes Jorasses\",  in M. S. Emery, <i>Switzerland through the stereoscope...</i>, Underwood & Underwood, 1901</b><br><br>Queste due attrazioni turistiche alpine, il Cervino e la Mer de Glace, sono tra i siti virtualmente visitati durante questo viaggio stereoscopico. In effetti, all'epoca, il massiccio del Monte Bianco era ancora spesso incluso negli itinerari delle guide di viaggio della Svizzera, nonostante il fatto che la Savoia facesse parte della Francia del 1860."
+					}],
+					"contentRight": false,
+					"linkRight": "",
+					"nameRight": ""
+				},
+				{
+					"title": "L'autrice (Mabel Sarah Emery)",
+					"images": [{
+						"url": "3_1_1.jpg",						
+						"numero": 112,
+						"legende": "",
+						"description": "<b>Fig. 112: N. 61, \"Breithorn, Monte Rosa group, from the Gornergrat\", in Mabel Sarah Emery, <i>Switzerland through the stereoscope...</i>, Underwood & Underwood, 1901</b><br><br>Mabel Sarah Emery è l'autrice di diverse guide di viaggio pubblicate da \"Underwood & Underwood\". Nacque a Lynn il 22 febbraio 1859 da una famiglia quacchera i cui antenati inglesi si erano stabiliti nel Massachusetts nel 1635. Morì nella sua città natale il 13 dicembre 1932."
+					},
+					{
+						"url": "3_1_2.jpg",
+						"numero": 113,
+						"legende": "",
+						"description": "<b>Fig. 113: Bachelder, John B., \"Lynn, Mass : west view from near High Rock\", Endicott & Co., N. Y., 1856, Boston Public Library</b ><br><br>Situata sulle rive dell’Oceano Atlantico vicino a Boston, Lynn fu una delle prime colonie britanniche. Nella seconda metà del XIX secolo, grazie allo sviluppo della costa atlantica, Lynn divenne anche una località di villeggiatura alla moda."
+					},
+					{
+						"url": "3_1_3.jpg",
+						"numero": 114,
+						"legende": "",
+						"description": "<b>Fig. 114: Bailey, Oakley Hoopes & J.C. Hazen, \"Manufacturing center of Lynn, Massachusset\", 1879, Boston Public Library</b><br><br>Nel XIX secolo, Lynn era un centro industriale molto dinamico e il più importante centro americano per la produzione di calzature. Fu nel 1850 che il padre di Mabel Sarah Emery, lo storico George Edwin, aprì una fabbrica per la produzione di sapone in questa città."
+					},
+					{
+						"url": "3_1_4.jpg",
+						"numero": 115,
+						"legende": "",
+						"description": "<b>Fig. 115: <i>Every-day business notes on its practical details, arranged for young people by M. S. Emery</i>, Boston, Lee and Shepard, 1890</b><br><br>Dopo gli studi, Mabel Sarah Emery, come tutte le sue sorelle, divenne un'insegnante. Lavorò poi come contabile, segretaria e pubblicista. Il suo primo libro fu un manuale di economia in cui utilizzò, a beneficio dei giovani, l'esperienza acquisita nelle sue attività professionali precedenti."
+					},
+					{
+						"url": "3_1_5.jpg",
+						"numero": 115,
+						"legende": "",
+						"description": "<b>Fig. 116: Mabel Sarah Emery, <i>When we were little</i>, Universalist Pub. House, 1894</b><br><br>Quattro anni dopo, Mabel Sarah Emery scrisse un libro, in parte autobiografico, per bambini. Il libro fu illustrato dai disegni della giovane Edith N. Clark, che avrebbe in seguito fatto una carriera come illustratrice e artista."
+					},
+					{
+						"url": "3_1_6.jpg",
+						"numero": 117,
+						"legende": "",
+						"description": "<b>Fig. 117: Mabel Sarah Emery, <i>How to Enjoy Pictures</i>, The Prang Educational, 1898</b><br><br>Nel 1898, Mabel Sarah Emery pubblicò un libro sull'uso delle immagini nelle attività educative. Questo libro diventò un riferimento per diverse scuole. Molto probabilmente in seguito a questo successo Mabel Sarah Emery iniziò la sua collaborazione con l'editore \"Underwood & Underwood\"."
+					},
+					{
+						"url": "3_1_9a.jpg",
+						"numero": 118,
+						"legende": "",
+						"description": "<b>Fig. 118: <i>Russia through the stereoscope; a journey across the land of the czar from Finland to the Black Sea through the stereoscope, personally conducted by M. S. Emery</i>, Underwood & Underwood, 1901</b><br><br>Mabel Sarah Emery iniziò a lavorare per \"Underwood & Underwood\" e si trasferì a New York nel 1900, dopo la morte del padre. Scrisse questa guida per il viaggio in Russia pubblicata a metà del 1901, accompagnata da 100 stereofotografie e da un atlante contenente 10 carte geolocalizzate."
+					},
+					{
+						"url": "3_1_7.jpg",
+						"numero": 119,
+						"legende": "",
+						"description": "<b>Fig. 119: <i>Switzerland through the stereoscope; a journey over and around the Alps, conducted by M. S. Emery</i>, Underwood & Underwood, 1901</b><br><br>Pur non avendo probabilmente visitato il paese, Mabel Sarah Emery scrisse la guida per la Svizzera dopo quella sulla Russia. Il set venne pubblicato alla fine del 1901, arricchito da 100 stereofotografie e da un atlante di 11 carte geolocalizzate. La guida conta 274 pagine. Dopo un'introduzione storico-geografica sul paese e una bibliografia essenziale, il testo fornisce informazioni sulla visione binoculare e le istruzioni per la visualizzazione delle stereofotografie. Descrive poi le immagini, che sono numerate secondo il percorso predefinito."
+					},{
+						"url": "3_1_10.jpg",
+						"numero": 120,
+						"legende": "",
+						"description": "<b>Fig. 120: <i>Norway through the stereoscope; notes on a journey through the land of the Vikings, arranged by M. S. Emery, edited by Julius E. Olson</i>, Underwood & Underwood, 1907</b><br><br>Nel 1907, Mabel Sarah Emery scrisse la guida sulla Norvegia, curata da Julius Emil Olson, un famoso professore di lingua e letteratura scandinava all'Università del Wisconsin. Un senatore americano, Knute Nelson, di origine norvegese, redasse l'introduzione."
+					},
+					{
+						"url": "3_1_11.jpg",
+						"numero": 121,
+						"legende": "",
+						"description": "<b>Fig. 121: <i>Real children in many lands: a series of visits through the stereoscope, guided by M. S. Emery</i>, Underwood & Underwood, 1905</b><br><br>\"Underwood & Underwood\" incaricò ancora Mabel Sarah Emery di scrivere la guida per accompagnare il set tematico di 100 stereofotografie riproducenti i bambini di vari paesi. Il set viene pubblicato nel 1905 e poi ripubblicato nel 1914, poco prima dello scoppio della prima guerra mondiale"
+					},	
+					{
+						"url": "3_1_8.jpg",
+						"numero": 122,
+						"legende": "",
+						"description": "<b>Fig. 122: Il transatlantico \"Arabic\" della \"White Star Line\"</b><br><br>Alla collaborazione con \"Underwood & Underwood\" è anche associato l'unico viaggio oltre Atlantico di Mabel Sarah Emery di cui siamo riusciti a trovare una traccia negli archivi americani. Il 27 giugno 1912, due mesi dopo il naufragio del \"Titanic\", ritornò da Liverpool a Boston a bordo dell'\"Arabic\", il transatlantico britannico varato nel 1903."
+					}],
+					"contentRight": false,
+					"linkRight": "",
+					"nameRight": ""
+				},
+				{
+					"title": "Il cofanetto",
+					"images": [{
+							"url": "3_2_1.jpg",
+							"numero": 123,
+							"legende": "",
+							"description": "<b>Fig. 123: Il cofanetto di <i>Switzerland through the stereoscope; a journey over and around the Alps, conducted by M. S. Emery</i>, Underwood & Underwood, 1901, &copy; Fabrice Ducrest, UNIL</b><br><br>Questo set fu uno dei primi a essere pubblicato e fa parte di una serie di cofanetti simili a libri, contenenti 100 fotografie stereoscopiche montate su cartoncini e recanti sul retro la legenda in 6 lingue. Questi cofanetti sono arricchiti da una guida e da un piccolo volume di mappe geolocalizzate. La guida fu tradotta in francese nel 1908 da Auguste Canivet, romanziere e istitutore francese, e in tedesco da Elise Flury, pedagogista svizzera residente a Londra e grande viaggiatrice."
+						},
+						{
+							"url": "3_2_7.jpg",
+							"numero": 124,
+							"legende": "",
+							"description": "<b>Fig. 124: N. 52, \"Bord du glacier d'Aletsch\" e descrizione della veduta, in Mabel Sarah Emery, <i>Switzerland through the stereoscope...</i>, Underwood & Underwood, 1901</b><br><br>Per la parte descrittiva delle immagini, la guida adotta la forma di sotto capitoli numerati come le fotografie. Tuttavia, la continuità della lettura non è interrotta perché il lettore-viaggiatore è costantemente rinviato alla carta geografica, che garantisce l'unità del percorso."
+						},
+						{
+							"url": "3_2_12.jpg",
+							"numero": 125,
+							"legende": "",
+							"description": "<b>Fig. 125: N. 53, \"An ocean of Ice - great Aletsch Glacier (looking south) with Weisshorn in distance\", in Mabel Sarah Emery, <i>Switzerland through the stereoscope...</i>, Underwood & Underwood, 1901</b></b><br><br>Le didascalie in sei lingue (inglese, francese, tedesco, spagnolo, svedese e russo) sono stampate sul retro dei cartoncini sui quali sono incollate le fotografie stereoscopiche."
+						},{
+							"url": "3_2_13.jpg",
+							"numero": 126,
+							"legende": "",
+							"description": "<b>Fig. 126: N. 14, \"Sisikon and the Mighty Uri-Rothstock (9020 feet)\", in Mabel Sarah Emery, <i>Switzerland through the stereoscope...</i>, Underwood & Underwood, 1901</b><br><br> Oltre alle didascalie nelle sei lingue, i cartoncini a volte riportano sul retro anche dei passaggi della guida che descrivono l'immagine."
+						},
+						{
+							"url": "3_2_2_a.jpg",
+							"numero": 127,
+							"legende": "",
+							"description": "<b>Fig. 127a: John Fillis Jarvis, \"The highest hamlets upon all those hills… \", 1897; Fig. 127b: N. 30, \"Grindelwald Valley and the Wetterhorn from the Summit of Scheidegg\", in Mabel Sarah Emery, <i>Switzerland through the stereoscope…</i>, Underwood & Underwood, 1901</b><br><br>A differenza degli autori delle guide, i nomi dei fotografi non vengono menzionati dall'editore. Questi selezionava le immagini dal grande stock di fotografie di cui possedeva i diritti. Abbiamo tuttavia potuto attribuire più di 60 stereofotografie del cofanetto svizzero a John Fillis Jarvis (1849 - 1931). Questo fotografo inglese, stabilitosi a Washington nel 1870 come editore di stereofotografie, realizzò numerose fotografie sia negli Stati Uniti che in altri paesi, tra cui la Svizzera. Vendette in seguito il suo stock a \"Underwood & Underwood\"."
+						},
+						{
+							"url": "3_2_4.jpg",
+							"numero": 128,
+							"legende": "",
+							"description": "<b>Fig. 128: <i>Maps and plans accompanying Switzerland through the stereoscope</i>, Underwood & Underwood, 1901</b><br><br>Il set è completato da questo piccolo atlante che contiene undici carte secondo il sistema brevettato da \"Underwood & Underwood\". L’atlante è composto da una carta generale della Svizzera e dieci altre carte tra cui sei carte delle regioni visitate, due mappe di città e due mappe di tunnel elicoidali."
+						},
+						{
+							"url": "3_2_5.jpg",
+							"numero": 129,
+							"legende": "",
+							"description": "<b>Fig. 129: Geolocalizzazione della stereofotografia n. 6, \"Map. n. 2, Lake Lucerne\", in <i>Maps and plans accompanying Switzerland through the stereoscope</i>, Underwood & Underwood, 1901</b><br><br> Questo è un esempio del sistema di mappatura. Tutte le carte sono geolocalizzate e per mezzo di un cerchio rosso indicano i numeri delle stereofotografie corrispondenti ai punti di vista da cui ogni immagine è stata realizzata"
+						},
+						{
+							"url": "3_2_6.jpg",
+							"numero": 130,
+							"legende": "",
+							"description": "<b>Fig. 1301: N. 6, \"Lucerne and her beautiful Lake\" e \"Map. n. 2, Lake Lucerne \", in Mabel Sarah Emery, <i>Switzerland through the stereoscope...</i>, Underwood & Underwood, 1901</b><br><br>La geolocalizzazione delimita anche il campo visivo tramite due linee divergenti che partono dal punto di vista. Il limite di questo campo visivo è indicato dalla ripetizione del numero della stereofotografia, questa volta non cerchiato, alla fine delle due linee. Queste linee sono tratteggiate quando gli oggetti ostruiscono la vista."
+						},
+						{
+							"url": "3_2_3.jpg",
+							"numero": 131,
+							"legende": "",
+							"description": "<b>Fig. 131: Elenco dei sottoinsiemi regionali per la Svizzera con i loro prezzi, Underwood & Underwood, 1904</b><br><br>I fratelli Underwood decisero di pubblicare dei sottoinsiemi di cofanetti contenenti solo le stereofotografie, le parti della guida e le carte della regione o città prescelte ed estratte dal cofanetto completo. Nel 1902, l'editore pubblica cinque sottoinsiemi degli itinerari svizzeri più visitati dai turisti."
+						},
+						{
+							"url": "3_2_8.jpg",
+							"numero": 132,
+							"legende": "",
+							"description": "<b>Fig. 132: <i>Lucerne; a part of Underwood and Underwood's stereoscopic tour through Switzerland, personally conducted by M. S. Emery</i>, Underwood & Underwood, 1902</b><br><br>Il tour del Lago dei Quattro Cantoni contiene le stereofotografie dal n. 6 al n. 16, integrate da una guida di 72 pagine. Il volume include la carta generale della Svizzera e altre due carte, una della regione e una della città di Lucerna"
+						},
+						{
+							"url": "3_2_9.jpg",
+							"numero": 133,
+							"legende": "",
+							"description": "<b>Fig. 133: <i>The Engadine and St. Gotthard railway; a part of Underwood and Underwood's stereoscopic tour through Switzerland, personally conducted by M. S. Emery</i>, Underwood & Underwood, 1902</b><br><br>Il cofanetto sull’Engadina contiene le stereofotografie dal n. 39 al n. 46 integrate da una guida di 36 pagine. Il libro include la carta generale della Svizzera e altre tre carte, una della regione e due dei tunnel elicoidali della Biaschina e di quello vicino a Wassen."
+						},
+						{
+							"url": "3_2_10.jpg",
+							"numero": 134,
+							"legende": "",
+							"description": "<b>Fig. 134: <i> Mont Blanc; a part of Underwood and Underwood's stereoscopic tour through Switzerland, personally conducted by M. S. Emery</i>, Underwood & Underwood, 1902</b><br><br>Il set dedicato al massiccio del Monte Bianco offre le stereofotografie dal n. 78 al n. 100 completate da una guida di 55 pagine. Quest'opera comprende la carta del massiccio del Monte Bianco, ma anche la carta generale della Svizzera, nonostante il fatto che questa regione faccia parte della Francia dal 1860. Per tradizione in molte guide turistiche dell'epoca, questa regione era spesso inclusa nell'itinerario svizzero."
+						},
+						{
+							"url": "3_2_11.jpg",
+							"numero": 135,
+							"legende": "",
+							"description": "<b>Fig. 135: Lettere di H. Newman e di Joseph H. Wade, pubblicate in Mabel Sarah Emery, <i>Lucerne; a part of Underwood and Underwood's...</i>, e in Mabel Sarah Emery, <i>Mont Blanc; a part of Underwood and Underwood's...</i>, Underwood & Underwood, 1902</b><br><br>A partire dal 1902, i set sono arricchiti da alcune lettere firmate da personalità del mondo della cultura americana che raccomandano l'uso di questi viaggi stereoscopici."
+						}
+					],
+					"contentRight": false,
+					"linkRight": "",
+					"nameRight": ""
+				},
+				{
+					"title": "Le immagini e i testi",
+					"images": [{
+						"url": "3_3_13.jpg",
+						"numero": 136,
+						"legende": "",
+						"description": "<b>Fig. 136: N. 12, \"The Backbone of Europe, from the Summit of Pilatus\", in Mabel Sarah Emery, <i>Switzerland through the stereoscope...</i>, Underwood & Underwood, 1901</b><br><br>Lo scopo principale di questo viaggio è quello di visitare i territori alpini, ma l'opera fornisce anche molte immagini di città, villaggi e dei loro abitanti. Questa veduta, presa dalla cima del famoso Pilatus, dà all'autore l'occasione di segnalare le difficoltà di percepire le distanze anche con le stereofotografie. Le offre soprattutto l'opportunità di riflettere sull'importanza della catena alpina per la storia europea."
+					},
+					{
+						"url": "3_3_2.jpg",
+						"numero": 137,
+						"legende": "",
+						"description": "<b>Fig. 137: N. 1, \"The Falls of the Rhine and Laufen Castle\", in Mabel Sarah Emery, <i>Switzerland through the stereoscope...</i>, Underwood & Underwood, 1901</b><br><br>Le fotografie sono presentate secondo un percorso che presuppone l'accesso dalla Germania attraverso Sciaffusa. I viaggiatori virtuali possono così ammirare le famose cascate del Reno. Oltre a sottolineare l'importanza del fiume, il testo fornisce numerose spiegazioni geologiche."
+					},
+					{
+						"url": "3_3_11.jpg",
+						"numero": 138,
+						"legende": "",
+						"description": "<b>Fig. 138: N. 3, \"Luxurious interior of the Monastery Church, St. Gall\", in Mabel Sarah Emery, <i>Switzerland through the stereoscope...</i>, Underwood & Underwood, 1901</b><br><br>Il monastero di San Gallo è la prima chiesa importante su questo percorso. L'interno fornisce all'autrice l'opportunità di concentrarsi sull'architettura gotica, ma anche di sottolineare l'importanza della religione, sia cattolica che protestante, nei vari cantoni svizzeri."
+					},
+					{
+						"url": "3_3_5.jpg",
+						"numero": 139,
+						"legende": "",
+						"description": "<b>Fig. 139: N. 4, \"Zurich, the Metropolis of Switzerland\", in Mabel Sarah Emery, <i>Switzerland through the stereoscope...</i>, Underwood & Underwood, 1901</b><br><br>Centro manifatturiero e commerciale di primo piano, Zurigo è presentata come la città più importante della Svizzera. Il testo descrive la vista sulla città, ma dà anche informazioni sulla sua storia religiosa e culturale e sottolinea il cosmopolitanismo e l'eccellenza delle sue università."
+					},
+					{
+						"url": "3_3_3.jpg",
+						"numero": 140,
+						"legende": "",
+						"description": "<b>Fig. 140: N. 13, \"The Lake of Lucerne from the Axenstein, Switzerland. The most beautiful country in the world\", in Mabel Sarah Emery, <i>Switzerland through the stereoscope...</i>, Underwood & Underwood, 1901</b><br><br>Questa veduta è presa dalla terrazza dell'Hotel Axenstein, una destinazione turistica per eccellenza, con i turisti che dalla terrazza ammirano la vista del Lago dei Quattro Cantoni. Il testo guida lo sguardo del viaggiatore virtuale attraverso l’ampio panorama."
+					},
+					
+					{
+						"url": "3_3_6.jpg",
+						"numero": 141,
+						"legende": "",
+						"description": "<b>Fig. 141: N. 19, \"Principal street and old clock, Berne \", in Mabel Sarah Emery, <i>Switzerland through the stereoscope...</i>, Underwood & Underwood, 1901</b><br><br>Questa veduta della piazza centrale della capitale svizzera permette all'autrice non solo di descrivere i suoi antichi monumenti e le attività dei suoi abitanti, ma di soffermarsi anche sull'importanza delle antiche famiglie bernesi."
+					},
+					{
+						"url": "3_3_7.jpg",						
+						"numero": 142,
+						"legende": "",
+						"description": "<b>Fig. 142: N. 20, \"At the village fountain\", in Mabel Sarah Emery, <i>Switzerland through the stereoscope...</i>, Underwood & Underwood, 1901</b><br><br>La descrizione di questo villaggio bernese si concentra sul forte legame alla tradizione che caratterizza queste giovani ragazze. Si sofferma poi sull'architettura delle case, che nella loro semplicità rivelano anche una funzionalità che favorisce i legami sociali. In realtà, questa immagine non è stata scattata sul posto, ma è una stereofotografia fatta nel famoso \"Villaggio svizzero\" costruito a Ginevra per l’Esposizione nazionale svizzera del 1896."
+					},
+					{
+						"url": "3_3_7_c.jpg",						
+						"numero": 143,
+						"legende": "",
+						"description": "<b>Fig. 143a: Fred Boissonas, \"Village Suisse\", 1896, Bibliothèque de Genève, Centre d'iconographie; Fig. 143b: N. 20, \"At the village fountain\", in Mabel Sarah Emery, <i>Switzerland through the stereoscope...</i>, Underwood & Underwood, 1901</b><br><br>Questa cofanetto contiene sei fotografie che mostrano villaggi e abitanti nei loro costumi tradizionali. Sono state scattate nel \"villaggio svizzero\" ricostruito a Ginevra per l'Esposizione nazionale svizzera del 1896, come dimostra il confronto con altre fotografie dell'epoca, come questa scattata da Fred Boissonas, celebre fotografo ginevrino."
+					},
+					{
+						"url": "3_3_4a.jpg",
+						"numero": 144,
+						"legende": "",
+						"description": "<b>Fig. 144: N. 27, \"Mürren, the loftiest of Switzerland's Hamlets, and the Monch and Eiger \", in Mabel Sarah Emery, <i>Switzerland through the stereoscope...</i>, Underwood & Underwood, 1901</b><br><br>La veduta del villaggio di Mürren offre a Mabel Sarah Emery l'occasione di evocare una similitudine tra le istituzioni politiche americane e svizzere, sulla scia dell'idea delle \"repubbliche sorelle\", ravvivata alla fine del XIX secolo dal dibattito che si svolge negli Stati Uniti sul referendum e sull'iniziativa popolare."
+					},
+					{
+						"url": "3_3_4.jpg",
+						"numero": 145,
+						"legende": "",
+						"description": "<b>Fig. 145: N. 34, \"Upper Grindelwald Glacier\" in Mabel Sarah Emery, <i>Switzerland through the stereoscope...</i>, Underwood & Underwood, 1901</b><br><br> Le cime alpine costellate di ghiacciai sono state studiate da numerosi scienziati durante il XIX secolo. La descrizione utilizza i risultati di queste ricerche per spiegare il movimento dei ghiacciai."
+					},
+					{    
+						"url": "3_3_1.jpg",
+						"numero": 146,
+						"legende": "",
+						"description": "<b>Fig. 146: N. 42, \"Upper Engadine, the most admired of Swiss Valleys, northeast from the Hahnensee\", in Mabel Sarah Emery, <i>Switzerland through the stereoscope...</i>, Underwood & Underwood, 1901</b><br><br>Per Mabel Sarah Emery lo scopo principale di questo viaggio è di far conoscere i maestosi paesaggi alpini. La descrizione sottolinea certo la bellezza del panorama, ma anche gli effetti economici dello sviluppo del turismo in questa regione."
+					},
+					{
+						"url": "3_3_9.jpg",
+						"numero": 147,
+						"legende": "",
+						"description": "<b>Fig. 147: N. 45, \"Engineering feats on the St. Gotthard Railroad\", in Mabel Sarah Emery, <i>Switzerland through the stereoscope...</i>, Underwood & Underwood, 1901</b><br><br>La descrizione di questa stereofotografia della galleria elicoidale della Biaschina e della linea ferroviaria del Gottardo, inaugurata nel 1882, permette all'autrice di sottolineare la capacità innovativa di questo paese alpino."
+					},
+					{
+						"url": "3_3_9_a.jpg",
+						"numero": 148,
+						"legende": "",
+						"description": "<b>Fig. 148: N. 52, \"Edge of Aletsch Glacier - showing the treacherous Crevasses - and Marjelen Lake (looking west)\", in M. S. Emery, <i>Switzerland through the stereoscope...</i>, Underwood & Underwood, 1901</b><br><br>Sul bordo del lago glaciale Märjelen, Emery sottolinea come la vista di questo sito può aiutare a capire meglio l'azione del movimento dei ghiacciai, che è ancora al centro delle ricerche dei geologi."
+					},
+					{
+						"url": "3_3_10.jpg",
+						"numero": 149,
+						"legende": "",
+						"description": "<b>Fig. 149: N. 55, \"The Alpine Spirit's Sanctuary - Zermatt and the Matterhorn\"in Mabel Sarah Emery, <i>Switzerland through the stereoscope...</i>, Underwood & Underwood, 1901</b><br><br>La descrizione della stereofotografia di Zermatt evidenzia i cambiamenti apportati dal turismo in questo villaggio. Tuttavia, la figura in primo piano di una donna con la sua falce offre all'autrice l'opportunità di riflettere sulla dura vita dei contadini in queste regioni."
+					},
+					{
+						"url": "3_3_10_a.jpg",
+						"numero": 150,
+						"legende": "",
+						"description": "<b>Fig. 150: N. 75, \"Beautiful village of Montreux on Lake Geneva\"in Mabel Sarah Emery, <i>Switzerland through the stereoscope...</i>, Underwood & Underwood, 1901</b><br><br>Gli itinerari proposti si concentrano principalmente sulle regioni alpine. Solo quattro immagini mostrano siti del lago Lemano, mete preferite dai turisti da quando Rousseau ne ha rivelato il fascino. Nel suo testo, Mabel Sarah Emery esalta la bellezza di questo paesaggio e del lago, ma sembra criticare i cambiamenti apportati dalle infrastrutture turistiche. Il suo testo sottolinea anche la civetteria di questi luoghi dovuta all'influenza della Francia."
+					},
+					{
+						"url": "3_3_12a.jpg",
+						"numero": 151,
+						"legende": "",
+						"description": "<b>Fig. 151: N. 77, \"Lovely Geneva - bridges crossing the Rhone\", in Mabel Sarah Emery, <i>Switzerland through the stereoscope...</i>, Underwood & Underwood, 1901</b><br><br>Dopo aver sottolineato l'influenza culturale della città di Calvino e di Rousseau, la descrizione si concentra sull'importanza del Rodano per la sua attività produttiva. Il testo mette anche in evidenza la complessa relazione con la vicina Francia."
+					},
+					{
+						"url": "3_3_14.jpg",
+						"numero": 152,
+						"legende": "",
+						"description": "<b>Fig. 152: N. 86, \"Ascent of Mt. Blanc - Ice Cliffs on the Bossons Glacier (looking southwest)\", in M. S. Emery, <i>Switzerland through the stereoscope...</i>, Underwood & Underwood, 1901</b><br><br>Questo testo è un chiaro esempio dello stile adottato dalla guida per creare l'illusione di un viaggio reale. Adottando la prima persona plurale, e altre espressioni quali \"Si sta facendo notte, e dobbiamo dormire al rifugio dei Grands Mulets\", Emery sta facendo con il viaggiatore virtuale la salita al Monte Bianco attraverso il ghiacciaio dei Bossons. Per stimolare il desiderio di continuare il viaggio, suggerisce anche la vista della prossima tappa segnata sulla mappa con il numero 87."
+					},
+					{
+						"url": "3_3_12.jpg",
+						"numero": 153,
+						"legende": "",
+						"description": "<b>Fig. 153: N. 99, \"Mer de Glace with Aiguille du Géant, Charmoz and Montanvert in distance, Alps\", in Mabel Sarah Emery, <i>Switzerland through the stereoscope...</i>, Underwood & Underwood, 1901</b><br><br>Dopo aver fornito informazioni geologiche, l'autrice, giocando con i diversi piani dell'immagine e la temporalità di questo paesaggio, ne esalta l'immensità."
+					}],
+					"contentRight": false,
+					"linkRight": "",
+					"nameRight": ""
+				},
+				{
+					"title": "Il metodo anaglifico",
+					"images": [{
+						"url": "4_1_1.jpg",
+						"numero": 154,
+						"legende": " ",
+						"description": "<b>Fig. 154: Trasformazione di stereofotografie in immagini anaglifiche, applicate al set di Mabel Sarah Emery, <i>Switzerland through the stereoscope...</i>, Underwood & Underwood, 1901</b><br><br>Un anaglifo è un'immagine ottenuta sovrapponendo una coppia di immagini stereoscopiche, filtrate con i colori complementari rosso e ciano. È così possibile vederli in 3D sul vostro schermo usando dei semplici occhiali anaglifici."
+					},
+					{
+						"url": "4_1_2.jpg",
+						"numero": 155,
+						"legende": "",
+						"description": "<b>Fig. 155a: L. Ducos du Hauron, <i>Les couleurs en photographie. Solution du problème</i>, Paris, 1869; Fig. 155b: L. Ducos du Hauron \"Vue d'Agen\", fotografia a colori, France, 1877, George Eastman House</b><br><br>Realizzata da uno degli abitanti di Agen, questa è una delle prime fotografie a colori. Il suo autore, il francese Louis Ducos du Hauron, è considerato l'inventore della fotografia a colori. A lui si deve il termine \"anaglifo\"."
+					},
+					{
+						"url": "4_1_3.jpg",
+						"numero": 156,
+						"legende": "",
+						"description": "<b>Fig. 156a: \"Stereoscopic print Patent USA\", Brevet attribué à Ducos du Hauron en 1895; Fig. 156b: \"Louis Ducos du Hauron\", autochrome de Louis Lumière, ca 1910, Bibliothèque nationale de France</b><br><br>Stabilitosi ad Algeri nel 1891, Louis Ducos du Hauron brevettò la tecnica delle proiezioni anaglifiche, perfezionandola per permettere la stampa di due immagini sovrapposte, trattate con rosso e blu e visibili attraverso lorgnette dotate di lenti di questi due colori."
+					},
+					{
+						"url": "4_1_4.jpg",						
+						"numero": 157,
+						"legende": "",
+						"description": "<b>Fig. 157: Esperimenti di proiezioni stereoscopiche secondo il metodo di Almeida, estratto da \"Les anaglyphes\", in <i>Le Monde Illustré</i>, 1894</b><br><br>Descritto nel 1853 dal tedesco Wilhelm Rollman, il principio della proiezione stereoscopica attraverso due immagini stereoscopiche filtrate con due colori fu illustrato nel 1858 dal fisico francese Charles Joseph d'Almeida."
+					},
+					{
+						"url": "4_1_5.jpg",
+						"numero": 158,
+						"legende": "",
+						"description": "<b>Fig. 158: Proiezione pubblica di immagini in rilievo di Alfred Molteni nel 1890, in <i>La Nature</i>, 1891</b><br><br>A partire dal 1890, Alfred Molteni, uno dei più importanti fabbricanti francesi di lanterne magiche ed esperto di proiezioni luminose, utilizzò il metodo di Almeida per proiettare immagini tridimensionali."
+					},
+					{
+						"url": "4_1_6.jpg", 
+						"numero": 159,
+						"legende": "",
+						 "description": "<b>Fig. 159a: Louis Ducos du Hauron, \"Les anaglyphes\" volantino pubblicitario con lorgnette bicolore, 1891; Fig. 159b: \"Les anaglyphes. Aspect d'une figure\", in <i>La science illustrée</i>, 1894</b><br><br>Louis Ducos du Hauron presentò il suo brevetto per la stampa di anaglifi ad Algeri nel 1891 e nel 1893 spiegò la sua tecnica in una conferenza che poi pubblicherà. La stessa figura dell'aquila illustra sia il volantino che l'articolo apparso nel 1894 nella rivista <i>La science illustrée</i>."
+					},
+					{
+						"url": "4_1_8.jpg",
+						"numero": 160,
+						"legende": " ",
+						"description": "<b>Fig. 160: \"Anaglyphs\" in <i>Scientific American</i>, 1894 e \"La double vision binoculaire\", in <i>La Nature</i>, 1899</b><br><br>Il metodo concepito da Louis Ducos du Hauron attirò l'attenzione degli scienziati e delle riviste specializzate, non solo in Francia, ma anche in Europa e negli Stati Uniti."
+					},
+					{
+						"url": "4_1_7.jpg",
+						"numero": 161,
+						"legende":" ",
+						"description": "<b>Fig. 161: L’emporio della fotografia di Eugène Demole a Ginevra, ca 1900, Bibliothèque de Genève, Centre d'iconographie</b><br><br>Gli anaglifi prodotti da Louis Ducos du Hauron erano venduti all’emporio della fotografia di Ginevra, poiché il suo brevetto concesse la vendita al suo amico ginevrino Emile Demole, curatore del gabinetto numismatico di Ginevra, che possedeva anche questo emporio."
+					},
+					{
+						"url": "4_1_9_a.jpg",						
+						"numero": 162,
+						"legende": "",
+						"description": "<b>Fig. 162a: Max Skladanowsky, <i>Plastische Weltbilder</i>, I, H. 1 e Anaglifo \"Am Alexanderplatz\", Berlin [1900]; Fig. 162b  <i>Plastographical Views of the World</i>, S. I, N. 6, London The Methropolis, Berlin, [1920]; Fig. 162c Plastograph</b><br><br>Max Skladanowsky, inventore, cineasta e showman berlinese, specialista di lanterne magiche, inventò insieme a suo fratello Emil, la camera Bioskop con la quale girò il suo primo film nel 1895, proiettato a Berlino lo stesso anno. Nel 1902, cominciò a pubblicare una serie di opuscoli illustrati con immagini anaglifiche di varie città e paesi europei. I titoli e le leggende sono dati prima in tedesco e poi in diverse lingue. Questi libretti contengono occhiali anaglifi denominati \"Plastograph\"."
+					},
+					{
+						"url": "4_1_9.jpg",						
+						"numero": 163,
+						"legende": "",
+						"description": "<b>Fig. 163: Anaglifi di diversi soggetti che illustrano l'articolo pubblicato da <i>Illustrated London News</i>, 8 marzo 1924, John Weedy's collection of <i>The Illustrated London News</i></b><br><br>L'uso degli anaglifi come mezzo per illustrare delle riviste fu limitato. Nel gennaio 1924, grazie al lavoro di Léon Gimpel e Émile Touchet, <i>L'Illustration</i> iniziò a pubblicare degli anaglifi. Lo stesso articolo fu pubblicato nell'edizione inglese, qui riprodotta, alcuni mesi dopo."
+					},
+					{
+						"url": "4_1_10.jpg",
+						"numero": 164,
+						"legende": "",
+						"description": "<b>Fig. 164: Collezione di diversi libri illustrati con anaglifi, Les Éditions en Anaglyphes, Imprimerie Aulard, Paris, 1937-1940</b><br><br>Pochi editori usarono gli anaglifi per l’illustrazione di libri. Questa collezione, lanciata alla fine degli anni 1930, è uno dei pochi esempi di utilizzo degli anaglifi in un'edizione destinata al turismo culturale."
+					},
+					{
+						"url": "4_1_11.jpg",
+						"numero": 165,
+						"legende": "",
+						"description": "<b>Fig. 165: Vari modelli di lorgnette e occhiali anaglifici (XIX - XXI secolo) </b><br><br>Con l'avvento della tecnologia digitale, la trasformazione delle immagini stereoscopiche in anaglifi è diventata un'operazione semplice e molti occhiali sono disponibili a un prezzo modico. Per questa ragione abbiamo scelto la tecnica di visulizzazione con occhiali anaglifici per le stereofotografie e per la mappa 3D presenti in questa mostra."
+					}
+					],
+					"contentRight": false,
+					"linkRight": "",
+					"nameRight": ""
+				}
+			]
+		},
+		{
+			"title": "Viaggiate virtualmente!",
+			"textJson": "texts_chapitre_4.json",
+			"paragraphs": [{
+					"title": "Viaggiate virtualmente!",
+					"images": [{
+						"url": "4_0_1.jpg",
+						"legende": "",
+						"description": "<b>Fig. D</b>: \"General Map of Switzerland\", in <i>Atlas of Switzerland through the stereoscope...</i>, Underwood & Underwood, 1901</b><br><br>La mappa generale della Svizzera che apre l'atlante mostra l’itinerario da seguire, evidenziato da una linea rossa continua sulla quale i numeri (da 1 a 100) indicano la progressione. Sono inoltre evidenziate sei aree corrispondenti ad altrettanti itinerari specifici, per i quali l'atlante fornisce le altre carte geo-localizzate."
+					}],
+					"contentRight": false,
+					"linkRight": "",
+					"nameRight": ""
+				},
+				{
+					"title": "Gli itinerari",
+					"images": [{
+						"url": "3_4_1.png",
+						"numero": 166,
+						"legende": "Accedete ai percorsi interattivi con questo  <a href=\"gallerySelection.html\" target=\"_blank\">link</a>; <b>Fig. 151</b>: vedere la legenda",
+						"description": "<b><b>Fig. 166: I sei itinerari proposti</b>"
+					},
+					{
+						"url": "3_4_2.jpg",
+						"numero": 167,
+						"legende": "Accedete ai percorsi interattivi con questo <a href=\"gallerySelection.html\" target=\"_blank\">link</a>;",
+						"description": "<b>Fig. 167: \"Map. n. 1, General Map of Switzerland\", in <i>Maps and plans accompanying Switzerland through the stereoscope</i>, Underwood & Underwood, 1901</b><br><br>La mappa generale della Svizzera che apre l'atlante mostra l’itinerario da seguire, evidenziato da una linea rossa continua sulla quale i numeri (da 1 a 100) indicano la progressione. Sono inoltre evidenziate sei aree corrispondenti ad altrettanti itinerari specifici, per i quali l'atlante fornisce le altre carte geo-localizzate."
+					},
+					{
+						"url": "3_4_4.jpg",
+						"numero": 168,
+						"legende": "Accedete ai percorsi interattivi con questo <a href=\"gallerySelection.html\" target=\"_blank\">link</a>;",
+						"description": "<b>Fig. 168: \"Map. n. 3, Lucerne\", in <i>Maps and plans accompanying Switzerland through the stereoscope</i>, Underwood & Underwood, 1901</b><br><br>Tutte le carte sono geolocalizzate e per mezzo di un cerchio rosso indicano i numeri delle stereofotografie corrispondenti ai punti di vista da cui ogni immagine è stata realizzata. La geolocalizzazione delimita anche il campo visivo tramite due linee divergenti che partono dal punto di vista. Il limite di questo campo visivo è indicato dalla ripetizione del numero della stereofotografia, questa volta non cerchiato, alla fine delle due linee. Queste linee sono tratteggiate quando gli oggetti ostruiscono la linea vista."
+					},
+					{
+						"url": "3_4_5.jpg",
+						"numero": 169,
+						"legende": "Accedete ai percorsi interattivi con questo <a href=\"gallerySelection.html\" target=\"_blank\">link</a>;",
+						"description": "<b>Fig. 169: \"Map. n. 4, Bern\", in <i>Maps and plans accompanying Switzerland through the stereoscope</i>, Underwood & Underwood, 1901</b><br><br>Tutte le carte sono geolocalizzate e per mezzo di un cerchio rosso indicano i numeri delle stereofotografie corrispondenti ai punti di vista da cui ogni immagine è stata realizzata. La geolocalizzazione delimita anche il campo visivo tramite due linee divergenti che partono dal punto di vista. Il limite di questo campo visivo è indicato dalla ripetizione del numero della stereofotografia, questa volta non cerchiato, alla fine delle due linee. Queste linee sono tratteggiate quando gli oggetti ostruiscono la vista."
+					},
+					{
+						"url": "3_4_3.jpg",
+						"numero": 170,
+						"legende": "Accedete ai percorsi interattivi con questo <a href=\"gallerySelection.html\" target=\"_blank\">link</a>;",
+						"description": "<b>Fig. 170: \"Map. n. 2, Lake Lucerne\", in <i>Maps and plans accompanying Switzerland through the stereoscope</i>, Underwood & Underwood, 1901</b><br><br>Tutte le carte sono geolocalizzate e per mezzo di un cerchio rosso indicano i numeri delle stereofotografie corrispondenti ai punti di vista da cui ogni immagine è stata realizzata. La geolocalizzazione delimita anche il campo visivo tramite due linee divergenti che partono dal punto di vista. Il limite di questo campo visivo è indicato dalla ripetizione del numero della stereofotografia, questa volta non cerchiato, alla fine delle due linee. Queste linee sono tratteggiate quando gli oggetti ostruiscono la vista."
+					},
+					{
+						"url": "3_4_6.jpg",
+						"numero": 171,
+						"legende": "Accedete ai percorsi interattivi con questo <a href=\"gallerySelection.html\" target=\"_blank\">link</a>,",
+						"description": "<b>Fig. 171: \"Map. n. 5, The Bernese Alps\", in <i>Maps and plans accompanying Switzerland through the stereoscope</i>, Underwood & Underwood, 1901</b><br><br>Tutte le carte sono geolocalizzate e per mezzo di un cerchio rosso indicano i numeri delle stereofotografie corrispondenti ai punti di vista da cui ogni immagine è stata realizzata. La geolocalizzazione delimita anche il campo visivo tramite due linee divergenti che partono dal punto di vista. Il limite di questo campo visivo è indicato dalla ripetizione del numero della stereofotografia, questa volta non cerchiato, alla fine delle due linee. Queste linee sono tratteggiate quando gli oggetti ostruiscono la vista."
+					},
+					{
+						"url": "3_4_7.jpg",
+						"numero": 172,
+						"legende": "Accedete ai percorsi interattivi con questo <a href=\"gallerySelection.html\" target=\"_blank\">link/a>;",
+						"description": "<b>Fig. 172: \"Map. n. 6, Upper Engadine and Bernina Group\", in <i>Maps and plans accompanying Switzerland through the stereoscope</i>, Underwood & Underwood, 1901</b><br><br>Tutte le carte sono geolocalizzate e per mezzo di un cerchio rosso indicano i numeri delle stereofotografie corrispondenti ai punti di vista da cui ogni immagine è stata realizzata. La geolocalizzazione delimita anche il campo visivo tramite due linee divergenti che partono dal punto di vista. Il limite di questo campo visivo è indicato dalla ripetizione del numero della stereofotografia, questa volta non cerchiato, alla fine delle due linee. Queste linee sono tratteggiate quando gli oggetti ostruiscono la vista."
+					},
+					{
+						"url": "3_4_11.jpg",
+						"numero": 173,
+						"legende": "Accedete ai percorsi interattivi con questo <a href=\"gallerySelection.html\" target=\"_blank\">link</a>;",
+						"description": "<b>Fig. 173: \"Map. n. 7-8, Loop Tunnels, Biaschina Ravine et Loop Tunnels near Wasen\", in <i>Maps and plans accompanying Switzerland through the stereoscope</i>, Underwood & Underwood, 1901</b><br><br>Tutte le carte sono geolocalizzate e per mezzo di un cerchio rosso indicano i numeri delle stereofotografie corrispondenti ai punti di vista da cui ogni immagine è stata realizzata. La geolocalizzazione delimita anche il campo visivo tramite due linee divergenti che partono dal punto di vista. Il limite di questo campo visivo è indicato dalla ripetizione del numero della stereofotografia, questa volta non cerchiato, alla fine delle due linee. Queste linee sono tratteggiate quando gli oggetti ostruiscono la vista."
+					},{
+						"url": "3_4_8.jpg",
+						"numero": 174,
+						"legende": "Accedete ai percorsi interattivi con questo <a href=\"gallerySelection.html\" target=\"_blank\">link</a>;",
+						"description": "<b>Fig. 174: \"Map. n. 9, Zermatt and the Mt. Rosa Group\", in <i>Maps and plans accompanying Switzerland through the stereoscope</i>, Underwood & Underwood, 1901</b><br><br>Tutte le carte sono geolocalizzate e per mezzo di un cerchio rosso indicano i numeri delle stereofotografie corrispondenti ai punti di vista da cui ogni immagine è stata realizzata. La geolocalizzazione delimita anche il campo visivo tramite due linee divergenti che partono dal punto di vista. Il limite di questo campo visivo è indicato dalla ripetizione del numero della stereofotografia, questa volta non cerchiato, alla fine delle due linee. Queste linee sono tratteggiate quando gli oggetti ostruiscono vista."
+					},
+					{
+						"url": "3_4_9.jpg",
+						"numero": 175,
+						"legende": "Accedete ai percorsi interattivi con questo <a href=\"gallerySelection.html\" target=\"_blank\">link</a>;",
+						"description": "<b>Fig. 175: \"Map. n. 10, Great St. Bernard\", in <i>Maps and plans accompanying Switzerland through the stereoscope</i>, Underwood & Underwood, 1901</b><br><br>Tutte le carte sono geolocalizzate e per mezzo di un cerchio rosso indicano i numeri delle stereofotografie corrispondenti ai punti di vista da cui ogni immagine è stata realizzata. La geolocalizzazione delimita anche il campo visivo tramite due linee divergenti che partono dal punto di vista. Il limite di questo campo visivo è indicato dalla ripetizione del numero della stereofotografia, questa volta non cerchiato, alla fine delle due linee. Queste linee sono tratteggiate quando gli oggetti ostruiscono la vista."
+					},
+					{
+						"url": "3_4_10.jpg",						
+						"numero": 176,
+						"legende": "Accedete ai percorsi interattivi con questo <a href=\"gallerySelection.html\" target=\"_blank\">link</a>;",
+						"description": "<b>Fig. 176: \"Map. n. 11, The Chain of Mont Blanc\", in <i>Maps and plans accompanying Switzerland through the stereoscope</i>, Underwood & Underwood, 1901</b><br><br>Tutte le carte sono geolocalizzate e per mezzo di un cerchio rosso indicano i numeri delle stereofotografie corrispondenti ai punti di vista da cui ogni immagine è stata realizzata. La geolocalizzazione delimita anche il campo visivo tramite due linee divergenti che partono dal punto di vista. Il limite di questo campo visivo è indicato dalla ripetizione del numero della stereofotografia, questa volta non cerchiato, alla fine delle due linee. Queste linee sono tratteggiate quando gli oggetti ostruiscono la vista."
+					}],
+					"contentRight": true,
+					"linkRight": "gallerySelection.html",
+					"nameRight": "Itinerari"
+				},
+				{
+					"title": "La carta in 3D",
+					"images": [{
+						"url": "4_2_1.png",
+						"numero": 177,
+						"legende": "",
+						"description": "<b>Fig. 177: \"Carta Nazionale Svizzera\", Ufficio federale di topografia, swisstopo</b>"
+					}],
+					"contentRight": true,
+					"linkRight": "map3dreconnect.html",
+					"nameRight": "Carta"
+				},
+				{
+					"title": "La carta del 1900",
+					"images": [{
+						"url": "4_3_1.png",
+						"numero": 178,
+						"legende": "",
+						"description": "<b>Fig. 178: \"Carta Siegfried 1900\", Ufficio federale di topografia, swisstopo</b>"
+					}],
+					"contentRight": true,
+					"linkRight": "mapAncientReconnect.html",
+					"nameRight": "Carta"
+                },
+				{
+					"title": "La carta contemporanea",
+					"images": [{
+						"url": "4_4_1.png",
+						"numero": 179,
+						"legende": "",
+						"description": "<b>Fig. 179: \"Carta Nazionale Svizzera\", Ufficio federale di topografia, swisstopo</b>"
+					}],
+					"contentRight": true,
+					"linkRight": "mapModernReconnect.html",
+					"nameRight": "Carta"
+                }
+            ]
+        }
+    ]
+}

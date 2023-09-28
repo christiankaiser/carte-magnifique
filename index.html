@@ -1,0 +1,157 @@
+<html>
+  <head>
+    <title>Viati 3D</title>
+    
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <script src="lib/jquery-1.11.1.min.js"></script>
+    <link rel="stylesheet" href="css/colors.css" />
+    <link rel="stylesheet" href="lib/scroller_style.css" />
+    <script src="lib/scroller.js"></script>
+    <script src="lib/wheelzoom.js"></script>
+    <script src="js/touch.js"></script>
+    <script src="js/i18n.js"></script>
+    <script src="js/pubsub.js"></script>
+    <script src="js/expo.js"></script>
+    <link id="stylesheetreference" rel="stylesheet" href="css/style.css" />
+  </head>
+
+  <body oncontextmenu="return false;" id="body">  
+
+    <template id="navigStartLeftTempl">
+      <ul>
+        <li class="fstitemleft"></li>
+        <li class="lismall lileft"></li>
+        <li class="lstitem lileft"></li>
+      </ul>
+    </template>
+
+    <template id="navigStartRightTempl">
+      <ul>
+        <li class="fstitemright"></li>
+        <li class="lismall liright"></li>
+        <li class="lstitem liright"></li>
+      </ul>
+    </template>
+
+    <template id="navigItemLeftTempl">
+      <li class="lismall lileft">
+        <div class="bullContainer bullLeftContainer">
+          <div class="bullet"></div>
+          <div class="hide"></div>
+        </div>
+      </li>
+    </template>
+
+    <template id="navigItemRightTempl">
+      <li class="lismall liright">
+        <div class="bullContainer bullRightContainer">
+          <div class="bullet"></div>
+          <div class="hide"></div>
+        </div>
+      </li>
+    </template>
+
+    <template id="whiteDotTempl">
+      <li class="dot"></li>
+    </template>
+
+    <template id="paragraphContainerTempl">
+      <div class="expoContainer outerContainer">
+        <div class="nextContainer">
+          <img class="leftContainer noselect">
+          <div class="dotOuterContainer">
+            <ul class="dotContainer"></ul>
+          </div>
+        </div>
+        <div class="expoContainer rightContainer">
+          <div class="textClassGradient"></div>
+          <div class="textClass">
+            <h3 class="paragraphHeading"></h3>
+            <button class="hide horizontalButton navigationButton"></button>
+            <div class="paragraphContainer">
+              <p class="paragraphText"></p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </template>
+
+    <div id="title1">
+      <div class="languageSelectionContainer">
+        <span class="languageSelection languageWhite noselect">fr</span>
+        <span class="languageSelection languageWhite noselect">en</span>
+        <span class="languageSelection languageWhite noselect">de</span>
+        <span class="languageSelection languageWhite noselect">it</span>
+      </div>
+      <div id="titleCurtainContainer">
+        <div id="titleCurtain"></div>
+        <p id="titleTitle" class="i18n">Les Alpes en 3D</p>
+        <p id="titleText" class="noselect i18n">Un voyage virtuel à travers la Suisse et le massif du Mont Blanc... en 1900</p>
+        <p id="titleCredits" class="noselect i18n">Exposition réalisée par Daniela Vaj, Christian Kaiser et Manuel Bröchin - UNIL</p>
+        <div class="arrowContainer"></div>
+      </div>
+    </div>
+    
+
+    <div id="innerBody">
+
+      <div id="title2">
+        <div class="languageSelectionContainer">
+          <span class="languageSelection languageSelection2 languageGrey noselect">fr</span>
+          <span class="languageSelection languageSelection2 languageGrey noselect">en</span>
+          <span class="languageSelection languageSelection2 languageGrey noselect">de</span>
+          <span class="languageSelection languageSelection2 languageGrey noselect">it</span>
+        </div>
+	<!-- -------------------------
+	    ADD
+	---------------------------- -->
+	<div class="titleBox titleBox1"><p class="titleBoxLabel titleBoxLabelSmall"></p></div>
+	<div class="titleBox titleBox2"><p class="titleBoxLabel titleBoxLabelSmall"></p></div>
+	<div class="titleBox titleBox3"><p class="titleBoxLabel titleBoxLabelSmall"></p></div>
+	<div class="titleBox titleBox4"><p class="titleBoxLabel titleBoxLabelBig"></p></div>
+      </div>
+      
+      <div id="content">
+
+        <div id="chapterList" class="header">
+          <div id="chapterDropDown">
+            <a href="https://www.unil.ch"><img id="logoSmall" class="logo" src="images/logo_unil.png"></a>
+            <span id="chapterDropDownIcon" class="noselect">&#9776;</span>
+          </div>
+          <div class="chapter noselect"><span class="chapterSpan"></span></div>
+          <div class="chapter noselect"><span class="chapterSpan"></span></div>
+          <div class="chapter noselect"><span class="chapterSpan"></span></div>
+          <div id="mapChapter" class="chapter noselect">
+            <span class="chapterSpan"></span>
+            <div id="mapChapterShade"></div>
+          </div>
+          <a href="credits.html" target="_blank"><div class="chapterCredit chapter noselect"><span id="creditsSmall" class="chapterSpan i18n">Crédits</span></div></a>
+        </div>
+
+        
+        <ul id="navigationList" class="navigation"></ul>
+                
+        <div id="modalSite" class="modalSite">
+          <span id="closeModalSite">&times;</span>
+        </div>
+        <div id="galleryContainer"></div>
+                
+        <div id="contentContainer"></div>
+        
+        <div class="footer">
+          <a href="https://www.unil.ch"><img id="logoBig" class="logo" src="images/logo_unil.png"></a>
+          <div id="footerLinks">
+            <a href="https://www2.unil.ch/viatimages/index.php?lang=fr&projet=viaticalpes&#/ouvrage-217" target="_blank" class="creditLink noselect">Viatimages</a><br>
+            <a href="https://www.unil.ch/viaticalpes/fr/home.html" target="_blank" class="creditLink noselect">Viaticalpes</a><br>
+            <a id="creditsLarge" href="credits.html" target="_blank" class="creditLink noselect i18n">Crédits</a><br>
+          </div>
+        </div>
+      </div>
+
+      <p id="textLengthTestArea"></p>
+      
+    </div>
+  </body>
+</html>
